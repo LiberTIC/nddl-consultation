@@ -1,0 +1,97 @@
+{
+  "resources": [
+    {
+      "name": "resultats-definitifs-consultation-26-juin-2016",
+      "path": "resultats-definitifs-consultation-26-juin-2016.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 18646,
+      "schema": {
+        "fields": [
+          {
+            "name": "code-insee",
+            "type": "integer",
+            "description": "Code INSEE"
+          },
+          {
+            "name": "communes",
+            "type": "string",
+            "description": "Nom commune"
+          },
+          {
+            "name": "inscrits-29-02-16",
+            "type": "integer",
+            "description": "Inscrits au 29-02-2016"
+          },
+          {
+            "name": "inscrits",
+            "type": "integer",
+            "description": "Inscrits"
+          },
+          {
+            "name": "abstentions",
+            "type": "integer",
+            "description": "Abstentions"
+          },
+          {
+            "name": "votants",
+            "type": "integer",
+            "description": "Votants"
+          },
+          {
+            "name": "participation-p",
+            "type": "number",
+            "description": "Participation, en pourcentage"
+          },
+          {
+            "name": "blancs",
+            "type": "integer",
+            "description": "Votes blancs"
+          },
+          {
+            "name": "nuls",
+            "type": "integer",
+            "description": "Votes nuls"
+          },
+          {
+            "name": "exprimes",
+            "type": "integer",
+            "description": "Exprimés"
+          },
+          {
+            "name": "oui-v",
+            "type": "integer",
+            "description": "Oui, en voix"
+          },
+          {
+            "name": "oui-p",
+            "type": "number",
+            "description": "Oui, en pourcentage"
+          },
+          {
+            "name": "non-v",
+            "type": "integer",
+            "description": "Non, en voix"
+          },
+          {
+            "name": "non-p",
+            "type": "number",
+            "description": "Oui, en pourcentage"
+          },
+          {
+            "name": "tot-voix",
+            "type": "integer",
+            "description": "Total voix"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "nddl-referendum",
+  "title": "Données référendum Loire-Atlantique Notre Dame Des Landes",
+  "description": "Données sous forme CSV, plus facilement exploitables que celles publiées par la préfecture, sous forme PDF (http://www.loire-atlantique.gouv.fr/Actualites/Resultats-de-la-consultation-Nddl).",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0",
+  "repository": "http://github.com/LiberTIC/nddl-referendum.git"
+}
