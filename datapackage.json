@@ -9,7 +9,7 @@
       "schema": {
         "fields": [
           {
-            "name": "code-insee",
+            "name": "code_insee",
             "type": "integer",
             "description": "Code INSEE"
           },
@@ -19,7 +19,7 @@
             "description": "Nom commune"
           },
           {
-            "name": "inscrits-29-02-16",
+            "name": "inscrits_29_02_16",
             "type": "integer",
             "description": "Inscrits au 29-02-2016"
           },
@@ -39,7 +39,7 @@
             "description": "Votants"
           },
           {
-            "name": "participation-p",
+            "name": "participation_p",
             "type": "number",
             "description": "Participation, en pourcentage"
           },
@@ -59,27 +59,27 @@
             "description": "Exprimés"
           },
           {
-            "name": "oui-v",
+            "name": "oui_v",
             "type": "integer",
             "description": "Oui, en voix"
           },
           {
-            "name": "oui-p",
+            "name": "oui_p",
             "type": "number",
             "description": "Oui, en pourcentage"
           },
           {
-            "name": "non-v",
+            "name": "non_v",
             "type": "integer",
             "description": "Non, en voix"
           },
           {
-            "name": "non-p",
+            "name": "non_p",
             "type": "number",
             "description": "Oui, en pourcentage"
           },
           {
-            "name": "tot-voix",
+            "name": "tot_voix",
             "type": "integer",
             "description": "Total voix"
           }

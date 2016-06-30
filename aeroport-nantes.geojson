@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Aéroport de Nantes Atlantique"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.607952,
+          47.157914
+        ]
+      }
+    }
+  ]
+}

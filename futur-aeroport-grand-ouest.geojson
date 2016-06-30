@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Futur aéroport du Grand Ouest"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.723,
+          47.353
+        ]
+      }
+    }
+  ]
+}

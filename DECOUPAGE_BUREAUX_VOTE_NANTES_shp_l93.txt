@@ -1,0 +1,83 @@
+
+================================================
+TITRE DU JEU DE DONNEES
+================================================
+
+Découpage géographique des bureaux de vote de la ville de Nantes
+
+================================================
+DESCRIPTION
+================================================
+Les données fournissent le découpage en circonscriptions de vote de la ville de Nantes. Le
+découpage s'appuie sur les points d'adresse. 
+
+Un bureau de vote, dont les contours sont fixés par le Maire, est inclus dans sa totalité
+dans un canton, dont les limites sont définies par le Préfet.
+
+La ville de Nantes est découpée en 200 bureaux de vote à partir du 1er mars 2015.  
+
+Les limites géographiques des bureaux de vote sont directement disponibles dans les
+formats KML et SHP. 
+
+
+Thèmes 							: Citoyenneté / Institution
+Granularité						: Nantes
+
+================================================
+INFORMATIONS TECHNIQUES
+================================================
+
+Date de dernière mise à jour    : 01/04/2015
+Fréquence de mise à jour 		: Publication unique
+Couverture Temporelle : 2015 -  
+
+Derniere mise à jour technique	:
+
+	Date : 01/04/2015
+	Nature de la modification : Mise en ligne des données
+	Description de la modification : 1ère publication
+
+================================================
+ATTRIBUTS
+================================================
+
+
+IDOBJ        : Identifiant de l'objet
+IDBURO       : Identifiant du bureau de vote
+NUMERO       : Numéro du bureau
+LIEU_VOTE    : Identifiant du lieu de vote
+LIEU_NOM     : Nom du lieu de vote
+LIEU_SITE    : Type de site du lieu de vote (maison des associations, école maternelle, école élémentaire, groupe scolaire)
+LIEU_ADRESSE : Adresse du lieu de vote
+CODCOM       : Code de la commune
+COMMUNE      : Nom de la commune
+ 
+
+================================================
+CONTACT
+================================================
+
+Pour toute demande d'information ou remarque, 
+merci de passer par le forum du site http://data.nantes.fr
+
+================================================
+INFORMATIONS LEGALES
+================================================
+
+
+Propriétaire : Ville de Nantes
+
+Gestionnaire : Ville de Nantes
+
+Diffuseur	 : Nantes Métropole
+
+Licence      : Open Database License (ODbL)
+
+================================================
+SIGNATURES DES FICHIERS
+================================================
+
+DECOUPAGE_BUREAUX_VOTE_NANTES.dbf (md5) : 503f8494b98e6b101c3766395c8bbfed
+DECOUPAGE_BUREAUX_VOTE_NANTES.prj (md5) : f6d4872436dd3f0336bd65be52e7e522
+DECOUPAGE_BUREAUX_VOTE_NANTES.shp (md5) : bd971db0177e432efb00638dfc9df2f6
+DECOUPAGE_BUREAUX_VOTE_NANTES.shx (md5) : 333f91b4757e50a3f4537258633c3906
