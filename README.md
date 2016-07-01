@@ -44,5 +44,6 @@ Voici quelques aperçus
 
 ## Notes
 
-Les jointures entre données attributaires et géographiques ne sont pas faites pour le moment dans les jeux de données.
-Elles peuvent être facilement faites dans un logiciel dit "SIG" (Système d'Information Géographique) dont le rôle est de produire des cartes et plus encore.
+Les jointures entre données attributaires et géographiques sont faites via ce qu'on appelle des couches virtuelles. Les chemins peuvent poser problème pour réutiliser le projet. Pour cela, changez le manuellement en éditant le chemin dans le fichier consultation-nddl-2016-qgis.qgs (bug pour le moment, nous ferons une correction sous peu si aucun alternative simple n'est trouvée rapidement)
+
+
