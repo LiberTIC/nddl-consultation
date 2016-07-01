@@ -28,6 +28,20 @@ Pour les données des bureaux de vote nantais, les crédits sont Ville de Nantes
 
 Les crédits sont liés à Wikipédia dans ce cas précis.
 
+## Projet QGIS réexploitable
+
+Vous trouverez un fichier consultation-nddl-2016-qgis.qgs pour réxploiter ces données dans le logiciel Open Source [QGIS](http://qgis.org/fr/site/) au niveau Loire-Atlantique. A vous de jouer sur la ville de Nantes.
+
+Voici quelques aperçus
+
+![](resultat-consultation-non-inscrits-nddl-loire-atlantique.png)
+
+![](resultat-consultation-oui-inscrits-nddl-loire-atlantique.png)
+
+![](resultat-consultation-oui-non-exprimes-nddl-loire-atlantique.png)
+
+![](resultat-consultation-taux-abstentions-nddl-loire-atlantique.png)
+
 ## Notes
 
 Les jointures entre données attributaires et géographiques ne sont pas faites pour le moment dans les jeux de données.
