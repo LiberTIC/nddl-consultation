@@ -84,8 +84,8 @@
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Choroplèthes_bivariés20160630034524691"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="communes4420160628182821500"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Taux_abstentions20160630034139659"/>
-      <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="virtual_layer20160628172341684"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="_Non___suffrage_exprimé__copy20160701101011742"/>
+      <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="virtual_layer20160628172341684"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="virtual_layer20160628172703258"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="_Oui___parmi_les_inscrits__copy20160701093205054"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="futur_aeroport_grand_ouest20160629185804396"/>
@@ -1807,7 +1807,7 @@ def my_form_open(dialog, layer, feature):
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="146.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="146.331" visibility="1" zValue="13" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{b858ed57-c079-4054-b40b-131e97fd97a7}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
+        <ComposerItem pagey="146.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="146.331" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{b858ed57-c079-4054-b40b-131e97fd97a7}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -1816,7 +1816,7 @@ def my_form_open(dialog, layer, feature):
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
         <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="179.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="179.029" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{e0aed403-630f-4a32-bc1c-4ab3be8ca405}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
+        <ComposerItem pagey="179.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="179.029" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{e0aed403-630f-4a32-bc1c-4ab3be8ca405}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -1825,7 +1825,7 @@ def my_form_open(dialog, layer, feature):
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
         <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="206.066" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="304.261" y="206.066" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{2453b381-b256-41bb-98dd-5b4c5479eb9f}" height="24.9706" itemRotation="0" frame="false" pagex="304.261">
+        <ComposerItem pagey="206.066" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="304.261" y="206.066" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{2453b381-b256-41bb-98dd-5b4c5479eb9f}" height="24.9706" itemRotation="0" frame="false" pagex="304.261">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -3676,7 +3676,7 @@ def my_form_open(dialog, layer, feature):
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="143.332" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="143.332" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{52011729-5014-40ba-ac8e-50841972b870}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
+        <ComposerItem pagey="143.332" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="143.332" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{52011729-5014-40ba-ac8e-50841972b870}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -3685,7 +3685,7 @@ def my_form_open(dialog, layer, feature):
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
         <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{9ff4d50c-fe7d-4026-af84-85df9cce7639}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
+        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{9ff4d50c-fe7d-4026-af84-85df9cce7639}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -5205,7 +5205,7 @@ def my_form_open(dialog, layer, feature):
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="143.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="143.331" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{80cf2cbf-f794-4ea3-9f6e-a4ce944aa94f}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
+        <ComposerItem pagey="143.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="143.331" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{80cf2cbf-f794-4ea3-9f6e-a4ce944aa94f}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -5214,7 +5214,7 @@ def my_form_open(dialog, layer, feature):
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
         <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{d4cc8eb8-ceb4-49a9-9143-c47c76c4bacd}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
+        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{d4cc8eb8-ceb4-49a9-9143-c47c76c4bacd}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -7454,7 +7454,7 @@ def my_form_open(dialog, layer, feature):
         <fieldstyles/>
       </conditionalstyles>
     </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>_Oui___suffrage_exprimé__copy20160701092508386</id>
       <datasource>./communes44-nddl.geojson</datasource>
       <keywordList>
@@ -7548,9 +7548,9 @@ def my_form_open(dialog, layer, feature):
       </edittypes>
       <renderer-v2 attr="non_p" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
         <ranges>
-          <range render="true" symbol="0" lower="57.119999999999997" upper="73.569999999999993" label="Non - 57.1% - 73.6%"/>
-          <range render="true" symbol="1" lower="51.799999999999997" upper="57.119999999999997" label="Non - 51.8% - 57.1%"/>
-          <range render="true" symbol="2" lower="50.000000000000000" upper="51.799999999999997" label="Non - 50% - 51.8%"/>
+          <range render="true" symbol="0" lower="57.119999999999997" upper="73.569999999999993" label="57.1% - 73.6%"/>
+          <range render="true" symbol="1" lower="51.799999999999997" upper="57.119999999999997" label="51.8% - 57.1%"/>
+          <range render="true" symbol="2" lower="50.000000000000000" upper="51.799999999999997" label="50% - 51.8%"/>
         </ranges>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -8463,7 +8463,7 @@ def my_form_open(dialog, layer, feature):
         <fieldstyles/>
       </conditionalstyles>
     </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>communes44_nddl20160701092333055</id>
       <datasource>./communes44-nddl.geojson</datasource>
       <keywordList>
@@ -8557,9 +8557,9 @@ def my_form_open(dialog, layer, feature):
       </edittypes>
       <renderer-v2 attr="oui_p" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
         <ranges>
-          <range render="true" symbol="0" lower="63.560000000000002" upper="85.099999999999994" label="Oui - 63.6% - 85.1%"/>
-          <range render="true" symbol="1" lower="57.700000000000003" upper="63.560000000000002" label="Oui - 57.7% - 63.6% "/>
-          <range render="true" symbol="2" lower="50.000000000000000" upper="57.700000000000003" label="Oui - 50% - 57.7%"/>
+          <range render="true" symbol="0" lower="63.560000000000002" upper="85.099999999999994" label="63.6% - 85.1%"/>
+          <range render="true" symbol="1" lower="57.700000000000003" upper="63.560000000000002" label="57.7% - 63.6% "/>
+          <range render="true" symbol="2" lower="50.000000000000000" upper="57.700000000000003" label="50% - 57.7%"/>
         </ranges>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">

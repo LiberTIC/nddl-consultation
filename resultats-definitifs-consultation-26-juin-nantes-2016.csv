@@ -1,201 +1,201 @@
-bureau,inscrits,emarges,procurations,abstentions,votants,blancs,nuls,exprimes,oui,non
-"111 - Ecole Maternelle ""Molière""",866,421,19,44,421,6,3,412,192,220
-"112 - Ecole Maternelle ""Molière""",958,431,29,52,431,2,1,428,161,267
-"113 - Ecole Maternelle ""Molière""",865,351,12,51,351,3,1,347,133,214
-"114 - Ecole Maternelle ""Molière""",905,416,25,48,416,2,2,412,166,246
-"121 - Groupe Scolaire ""Stalingrad""",918,423,18,49,423,2,5,416,181,235
-"122 - Groupe Scolaire ""Stalingrad""",921,472,10,44,472,3,2,467,193,274
-"123 - Groupe Scolaire ""Stalingrad""",960,455,23,50,455,2,1,452,196,256
-"131 - Ecole Maternelle ""Sully""",962,490,28,47,490,4,0,486,236,250
-"132 - Ecole Maternelle ""Sully""",921,436,19,48,436,3,1,432,207,225
-"133 - Ecole Maternelle ""Sully""",922,448,45,47,450,1,1,448,187,261
-"134 - Ecole Maternelle ""Sully""",946,458,22,48,459,8,5,446,189,257
-"141 - Ecole Primaire ""Noire""",928,432,25,49,432,2,1,429,193,236
-"142 - Ecole Primaire ""Noire""",881,440,22,44,439,2,4,433,172,261
-"143 - Ecole Primaire ""Noire""",961,510,25,45,510,2,5,503,255,248
-"144 - Ecole Primaire ""Noire""",938,461,10,47,462,2,3,457,171,286
-"151 - Ecole Primaire ""Léon Say""",904,492,18,41,492,3,7,482,264,218
-"152 - Ecole Primaire ""Léon Say""",968,519,18,44,519,1,4,514,287,227
-"153 - Ecole Primaire ""Léon Say""",948,515,17,43,516,4,2,510,279,231
-"154 - Ecole Primaire ""Léon Say""",892,454,13,43,454,4,2,448,210,238
-"161 - Ecole Primaire ""Charles Lebourg""",914,436,18,47,436,0,7,429,229,200
-"162 - Ecole Primaire ""Charles Lebourg""",892,461,21,43,461,2,3,456,232,224
-"163 - Ecole Primaire ""Charles Lebourg""",861,404,20,45,404,0,3,401,191,210
-"171 - Ecole Maternelle ""Fellonneau""",898,452,26,44,452,4,3,445,212,233
-"172 - Ecole Maternelle ""Fellonneau""",911,443,20,46,443,2,3,438,203,235
-"173 - Ecole Maternelle ""Fellonneau""",926,513,14,41,513,5,3,505,294,211
-"174 - Ecole Maternelle ""Fellonneau""",927,511,30,41,510,1,2,507,245,262
-"175 - Ecole Maternelle ""Fellonneau""",884,411,30,47,411,0,0,411,154,257
-"181 - Ecole Primaire ""Jean Jaures""",902,302,16,59,303,3,5,295,132,163
-"182 - Ecole Primaire ""Jean Jaures""",563,266,4,29,266,2,1,263,129,134
-"211 - Ecole Maternelle ""Henri Bergson""",919,379,12,54,379,0,0,379,146,233
-"212 - Ecole Maternelle ""Henri Bergson""",952,248,0,70,249,2,2,245,135,110
-"213 - Ecole Maternelle ""Henri Bergson""",876,207,3,66,208,1,2,205,102,103
-"221 - Ecole Maternelle ""Louis Guiotton""",870,410,9,46,410,4,3,403,230,173
-"222 - Ecole Maternelle ""Louis Guiotton""",905,360,17,54,360,3,4,353,137,216
-"223 - Ecole Maternelle ""Louis Guiotton""",836,493,18,34,493,2,5,486,228,258
-"224 - Ecole Maternelle ""Louis Guiotton""",915,442,12,47,442,6,0,436,205,231
-"231 - Ecole Primaire ""Gay Lussac""",875,439,12,43,439,3,4,432,239,193
-"232 - Ecole Primaire ""Gay Lussac""",871,486,26,38,486,7,3,476,263,213
-"233 - Ecole Primaire ""Gay Lussac""",886,448,14,43,448,1,5,442,204,238
-"234 - Ecole Primaire ""Gay Lussac""",874,437,17,43,437,1,5,431,209,222
-"241 - Ecole Maternelle ""Agenêts""",858,397,17,46,397,4,2,391,196,195
-"242 - Ecole Maternelle ""Agenêts""",857,466,30,39,466,4,2,460,277,183
-"243 - Ecole Maternelle ""Agenêts""",834,427,25,40,426,0,2,424,246,178
-"244 - Ecole Maternelle ""Agenêts""",819,405,16,41,405,1,2,402,211,191
-"251 - Ecole Elementaire ""François Dallet""",1025,486,16,53,486,4,2,480,254,226
-"252 - Ecole Elementaire ""François Dallet""",999,567,21,43,567,4,4,559,338,221
-"253 - Ecole Elementaire ""François Dallet""",1007,446,7,56,446,2,4,440,251,189
-"254 - Ecole Elementaire ""François Dallet""",1022,520,14,50,520,2,4,514,291,223
-"261 - Ecole Elementaire ""Coudray""",839,423,25,41,423,2,1,420,239,181
-"262 - Ecole Elementaire ""Coudray""",872,418,32,45,418,1,1,416,189,227
-"263 - Ecole Elementaire ""Coudray""",815,445,27,37,445,0,7,438,219,219
-"264 - Ecole Elementaire ""Coudray""",890,425,22,46,426,3,4,419,226,193
-"271 - Ecole Maternelle ""Port Boyer""",874,348,8,52,348,6,1,341,167,174
-"272 - Ecole Maternelle ""Port Boyer""",909,426,13,48,426,0,4,422,199,223
-"273 - Ecole Maternelle ""Port Boyer""",805,397,20,40,398,2,4,392,166,226
-"274 - Ecole Maternelle ""Port Boyer""",874,501,21,37,501,5,2,494,281,213
-"275 - Ecole Maternelle ""Port Boyer""",816,372,3,44,372,3,2,367,191,176
-"311 - Ecole Elementaire ""Chêne d'Aron""",1050,500,16,55,500,2,1,497,231,266
-"312 - Ecole Elementaire ""Chêne d'Aron""",973,457,19,51,457,2,1,454,203,251
-"313 - Ecole Elementaire ""Chêne d'Aron""",960,440,15,52,440,1,1,438,238,200
-"314 - Ecole Elementaire ""Chêne d'Aron""",969,431,17,53,431,4,2,425,214,211
-"331 - Ecole Elementaire ""André Lermite""",938,448,18,48,449,2,1,446,187,259
-"332 - Ecole Elementaire ""André Lermite""",941,443,16,49,443,5,2,436,241,195
-"333 - Ecole Elementaire ""André Lermite""",894,421,23,47,421,7,1,413,239,174
-"334 - Ecole Elementaire ""André Lermite""",869,417,22,45,417,2,1,414,231,183
-"335 - Ecole Elementaire ""André Lermite""",835,367,22,46,367,1,0,366,229,137
-"341 - Ecole Elementaire ""Emile Péhant""",905,447,16,45,447,3,6,438,156,282
-"342 - Ecole Elementaire ""Emile Péhant""",857,402,19,45,402,2,3,397,157,240
-"343 - Ecole Elementaire ""Emile Péhant""",880,403,27,47,403,3,3,397,134,263
-"351 - Ecole Maternelle ""Gustave Roch""",862,378,10,48,378,3,3,372,173,199
-"352 - Ecole Maternelle ""Gustave Roch""",849,407,8,44,407,2,2,403,139,264
-"353 - Ecole Maternelle ""Gustave Roch""",875,341,6,53,341,3,0,338,134,204
-"354 - Ecole Maternelle ""Gustave Roch""",890,436,10,45,436,4,6,426,166,260
-"355 - Ecole Maternelle ""Gustave Roch""",946,461,22,48,461,3,2,456,204,252
-"361 - Ecole Maternelle ""Louise Michel""",967,443,11,52,446,0,5,439,177,262
-"362 - Ecole Maternelle ""Louise Michel""",865,441,8,42,441,0,6,435,214,221
-"363 - Ecole Maternelle ""Louise Michel""",860,335,6,52,335,4,2,329,139,190
-"364 - Ecole Maternelle ""Louise Michel""",989,449,12,54,449,3,3,443,188,255
-"365 - Ecole Maternelle ""Louise Michel""",791,276,4,51,276,3,1,272,110,162
-"371 - Ecole Maternelle ""Jacques Tati""",845,349,7,49,349,0,1,348,153,195
-"372 - Ecole Maternelle ""Jacques Tati""",824,307,7,51,307,2,0,305,118,187
-"373 - Ecole Maternelle ""Jacques Tati""",841,380,15,46,380,1,3,376,173,203
-"381 - Ecole Elementaire ""Ledru Rollin""",808,344,5,46,344,3,1,340,133,207
-"382 - Ecole Elementaire ""Ledru Rollin""",884,434,15,45,434,3,0,431,167,264
-"383 - Ecole Elementaire ""Ledru Rollin""",914,493,14,42,493,3,4,486,207,279
-"384 - Ecole Elementaire ""Ledru Rollin""",925,439,10,48,439,3,1,435,182,253
-"385 - Ecole Elementaire ""Ledru Rollin""",908,471,9,43,471,0,2,469,194,275
-"411 - Ecole ""Harouys""",542,251,7,29,251,0,0,251,117,134
-"412 - Ecole Maternelle ""Harouys""",705,333,14,37,333,2,2,329,184,145
-"413 - Ecole Maternelle ""Harouys""",882,446,39,43,446,4,1,441,253,188
-"414 - Ecole Maternelle ""Harouys""",775,358,15,41,358,0,0,358,248,110
-"415 - Ecole Maternelle ""Harouys""",795,419,17,37,419,4,3,412,273,139
-"416 - Ecole ""Harouys""",825,356,18,46,356,0,0,356,157,199
-"421 - Ecole Elémentaire ""Boccage""",857,428,5,42,428,6,3,419,248,171
-"422 - Ecole Elémentaire ""Boccage""",899,429,22,47,429,0,4,425,251,174
-"423 - Ecole Elémentaire ""Boccage""",923,474,18,44,474,3,1,470,290,180
-"424 - Ecole Elémentaire ""Boccage""",868,438,6,43,438,3,2,433,208,225
-"425 - Ecole Elémentaire ""Boccage""",876,422,20,45,422,0,8,414,166,248
-"431 - Ecole ""Mutualité""",935,477,33,45,478,4,2,472,241,231
-"432 - Ecole Elementaire ""Mutualité""",873,409,17,46,409,2,3,404,177,227
-"433 - Ecole Elementaire ""Mutualité""",918,532,68,38,532,6,2,524,201,323
-"434 - Ecole Elementaire ""Mutualité""",922,442,11,48,442,3,3,436,220,216
-"441 - Ecole Elementaire ""Garennes""",925,447,15,47,447,1,1,445,226,219
-"442 - Ecole Elementaire ""Garennes""",886,397,15,48,397,1,2,394,172,222
-"443 - Ecole Elementaire ""Garennes""",854,356,15,49,356,2,3,351,148,203
-"444 - Ecole Elementaire ""Garennes""",935,418,11,51,418,1,7,410,161,249
-"445 - Ecole Elementaire ""Garennes""",814,434,16,38,434,1,3,430,153,277
-"451 - Ecole Primaire ""Réformes""",890,443,26,44,443,2,2,439,158,281
-"452 - Ecole Primaire ""Réformes""",933,537,33,39,537,0,4,533,215,318
-"453 - Ecole Primaire ""Réformes""",961,512,26,44,512,0,1,511,186,325
-"461 - Ecole Maternelle ""Plessis-Cellier""",888,466,12,42,466,5,0,461,209,252
-"462 - Ecole Maternelle ""Plessis-Cellier""",886,473,21,41,472,1,0,471,198,273
-"463 - Ecole Maternelle ""Plessis-Cellier""",885,406,14,47,406,0,0,406,161,245
-"471 - Groupe Scolaire ""Jean Zay""",852,278,3,57,278,2,2,274,150,124
-"472 - Groupe Scolaire ""Jean Zay""",892,293,5,59,293,4,0,289,136,153
-"473 - Groupe Scolaire ""Jean Zay""",935,391,9,54,391,3,0,388,194,194
-"511 - Ecole Elementaire ""Grand Carcouet""",883,356,9,52,356,1,0,355,174,181
-"512 - Ecole Elementaire ""Grand Carcouet""",787,339,14,44,339,7,2,330,188,142
-"513 - Ecole Elementaire ""Grand Carcouet""",864,346,11,51,346,1,6,339,161,178
-"521 - Ecole Maternelle ""Jacques Prévert""",793,199,3,59,199,0,0,199,98,101
-"522 - Ecole Maternelle ""Jacques Prévert""",821,293,13,52,293,3,0,290,150,140
-"523 - Ecole Maternelle ""Jacques Prévert""",794,240,2,55,240,1,2,237,115,122
-"524 - Ecole Maternelle ""Jacques Prévert""",913,435,12,47,435,2,1,432,225,207
-"525 - Ecole Maternelle ""Jacques Prévert""",983,426,16,55,426,1,2,423,236,187
-"531 - Ecole Elémentaire ""Dervallières Chézine""",996,195,1,80,195,0,0,195,91,104
-"532 - Ecole Elémentaire ""Dervallières Chézine""",857,204,3,65,204,2,1,201,91,110
-"533 - Ecole Elémentaire ""Dervallières Chézine""",938,407,25,53,407,3,1,403,200,203
-"534 - Ecole Elémentaire ""Dervallières Chézine""",967,422,12,54,422,1,1,420,223,197
-"541 - Ecole Elémentaire ""Fraternité""",1001,465,13,53,465,7,4,454,200,254
-"542 - Ecole Elémentaire ""Fraternité""",1041,542,19,49,542,1,2,539,273,266
-"543 - Ecole Elémentaire ""Fraternité""",1019,498,16,52,498,1,5,492,289,203
-"544 - Ecole Elémentaire ""Fraternité""",959,477,26,48,477,5,0,472,180,292
-"545 - Ecole Elémentaire ""Fraternité""",971,458,8,51,457,4,0,453,245,208
-"551 - Ecole Elementaire ""Contrie""",828,394,21,43,394,4,0,390,167,223
-"552 - Ecole Elementaire ""Contrie""",973,517,7,45,517,4,1,512,254,258
-"553 - Ecole Elementaire ""Contrie""",936,503,29,43,503,0,4,499,227,272
-"554 - Ecole Elementaire ""Contrie""",933,413,10,52,413,2,4,407,181,226
-"555 - Ecole Elementaire ""Contrie""",890,441,16,44,441,1,4,436,206,230
-"561 - Ecole Maternelle ""Lucie Aubrac""",937,332,10,60,332,1,2,329,166,163
-"562 - Ecole Maternelle ""Lucie Aubrac""",936,198,7,73,198,1,1,196,89,107
-"563 - Ecole Maternelle ""Lucie Aubrac""",945,307,8,63,307,2,0,305,125,180
-"564 - Ecole Maternelle ""Lucie Aubrac""",1008,324,9,68,324,1,0,323,160,163
-"565 - Ecole Maternelle ""Lucie Aubrac""",985,426,24,55,428,1,4,423,164,259
-"611 - Ecole Maternelle ""Plantes""",915,446,13,46,446,3,3,440,257,183
-"612 - Ecole Maternelle ""Plantes""",897,423,19,47,423,6,2,415,227,188
-"613 - Ecole Maternelle ""Plantes""",899,491,17,40,491,1,1,489,307,182
-"614 - Ecole Maternelle ""Plantes""",887,448,26,43,448,3,0,445,257,188
-"615 - Ecole Maternelle ""Plantes""",896,466,27,43,466,2,3,461,290,171
-"621 - Ecole Maternelle ""Longchamp""",846,419,20,42,419,7,4,408,213,195
-"622 - Ecole Maternelle ""Longchamp""",915,429,12,48,431,6,6,419,198,221
-"623 - Ecole Maternelle ""Longchamp""",865,446,10,41,446,3,2,441,239,202
-"624 - Ecole Maternelle ""Longchamp""",893,453,7,44,453,4,5,444,207,237
-"625 - Ecole Maternelle ""Longchamp""",903,439,13,46,439,5,2,432,202,230
-"631 - Groupe Scolaire ""Barberie Mulotière""",935,504,18,43,504,8,4,492,275,217
-"632 - Groupe Scolaire ""Barberie Mulotière""",894,505,13,38,505,7,4,494,279,215
-"633 - Groupe Scolaire ""Barberie Mulotière""",895,459,13,43,459,4,5,450,207,243
-"634 - Groupe Scolaire ""Barberie Mulotière""",907,516,21,39,516,1,2,513,239,274
-"641 - Ecole Maternelle ""Côte d'Or""",930,497,21,43,497,3,3,491,262,229
-"642 - Ecole Maternelle ""Côte d'Or""",885,417,12,46,417,2,1,414,195,219
-"643 - Ecole Maternelle ""Côte d'Or""",906,463,15,44,462,3,2,457,276,181
-"651 - Ecole Maternelle ""Baut""",892,455,21,43,455,2,4,449,227,222
-"652 - Ecole Maternelle ""Baut""",895,429,11,46,429,1,4,424,215,209
-"653 - Ecole Maternelle ""Baut""",896,442,20,45,442,3,3,436,227,209
-"654 - Ecole Maternelle ""Baut""",903,448,15,45,448,1,1,446,207,239
-"655 - Ecole Maternelle ""Baut""",935,466,20,46,466,5,5,456,242,214
-"661 - Ecole Maternelle ""Chauvinière""",883,350,8,53,350,1,2,347,179,168
-"662 - Ecole Maternelle ""Chauvinière""",895,436,7,45,436,2,6,428,217,211
-"663 - Ecole Maternelle ""Chauvinière""",897,244,8,65,244,3,1,240,137,103
-"664 - Ecole Maternelle ""Chauvinière""",890,319,8,57,318,1,2,315,165,150
-"671 - Ecole Primaire ""Françoise Dolto""",876,252,3,62,252,1,2,249,140,109
-"672 - Ecole Primaire ""Françoise Dolto""",943,421,5,52,421,3,2,416,198,218
-"673 - Ecole Primaire ""Françoise Dolto""",950,390,4,56,390,1,1,388,186,202
-"711 - Ecole Elementaire ""Marsauderies""",948,518,23,43,518,3,2,513,317,196
-"712 - Ecole Elementaire ""Marsauderies""",924,454,20,47,454,4,3,447,290,157
-"713 - Ecole Elementaire ""Marsauderies""",937,376,14,56,376,1,0,375,208,167
-"714 - Ecole Elementaire ""Marsauderies""",999,495,16,50,495,4,1,490,247,243
-"715 - Ecole Elementaire ""Marsauderies""",980,424,6,55,424,0,0,424,245,179
-"721 - Ecole Maternelle ""Urbain Leverrier""",1021,411,11,61,411,4,2,405,219,186
-"722 - Ecole Maternelle ""Urbain Leverrier""",1048,414,5,63,414,0,4,410,211,199
-"723 - Ecole Maternelle ""Urbain Leverrier""",959,244,5,71,244,0,3,241,132,109
-"724 - Ecole Maternelle ""Urbain Leverrier""",991,314,5,67,314,3,2,309,179,130
-"725 - Ecole Maternelle ""Urbain Leverrier""",1008,555,16,45,555,5,3,547,365,182
-"731 - Ecole Maternelle ""Maurice Macé""",943,540,14,40,540,2,1,537,296,241
-"732 - Ecole Maternelle ""Maurice Macé""",959,543,14,41,542,2,2,538,318,220
-"733 - Ecole Maternelle ""Maurice Macé""",889,400,9,48,400,7,5,388,207,181
-"734 - Ecole Maternelle ""Maurice Macé""",969,553,22,41,553,2,6,545,296,249
-"735 - Ecole Maternelle ""Maurice Macé""",1007,553,15,45,553,3,3,547,287,260
-"741 - Ecole Primaire ""Julien Gracq""",976,469,14,50,469,1,5,463,324,139
-"742 - Ecole Primaire ""Julien Gracq""",980,440,19,54,440,2,6,432,276,156
-"743 - Ecole Primaire ""Julien Gracq""",1037,465,7,57,465,2,2,461,288,173
-"744 - Ecole Primaire ""Julien Gracq""",1246,605,13,64,605,4,5,596,343,253
-"751 - Ecole Elementaire ""Beaujoire""",1041,486,18,55,486,2,2,482,265,217
-"752 - Ecole Elementaire ""Beaujoire""",1002,446,11,55,446,4,10,432,258,174
-"753 - Ecole Elementaire ""Beaujoire""",1025,481,12,54,480,4,5,471,278,193
-"754 - Ecole Elementaire ""Beaujoire""",913,277,2,63,277,1,1,275,156,119
-"761 - Ecole Maternelle ""Louis Pergaud""",976,571,18,40,571,3,7,561,279,282
-"762 - Ecole Maternelle ""Louis Pergaud""",934,421,3,51,421,5,3,413,226,187
-"763 - Ecole Maternelle ""Louis Pergaud""",967,524,9,44,524,1,4,519,335,184
-"764 - Ecole Maternelle ""Louis Pergaud""",911,416,8,49,416,5,4,407,255,152
-"765 - Ecole Maternelle ""Louis Pergaud""",1116,630,20,48,630,7,3,620,393,227
+bureau,nom_ecole,inscrits,emarges,procurations,abstentions,votants,blancs,nuls,exprimes,oui,non
+111,"Ecole Maternelle ""Molière""",866,421,19,44,421,6,3,412,192,220
+112,"Ecole Maternelle ""Molière""",958,431,29,52,431,2,1,428,161,267
+113,"Ecole Maternelle ""Molière""",865,351,12,51,351,3,1,347,133,214
+114,"Ecole Maternelle ""Molière""",905,416,25,48,416,2,2,412,166,246
+121,"Groupe Scolaire ""Stalingrad""",918,423,18,49,423,2,5,416,181,235
+122,"Groupe Scolaire ""Stalingrad""",921,472,10,44,472,3,2,467,193,274
+123,"Groupe Scolaire ""Stalingrad""",960,455,23,50,455,2,1,452,196,256
+131,"Ecole Maternelle ""Sully""",962,490,28,47,490,4,0,486,236,250
+132,"Ecole Maternelle ""Sully""",921,436,19,48,436,3,1,432,207,225
+133,"Ecole Maternelle ""Sully""",922,448,45,47,450,1,1,448,187,261
+134,"Ecole Maternelle ""Sully""",946,458,22,48,459,8,5,446,189,257
+141,"Ecole Primaire ""Noire""",928,432,25,49,432,2,1,429,193,236
+142,"Ecole Primaire ""Noire""",881,440,22,44,439,2,4,433,172,261
+143,"Ecole Primaire ""Noire""",961,510,25,45,510,2,5,503,255,248
+144,"Ecole Primaire ""Noire""",938,461,10,47,462,2,3,457,171,286
+151,"Ecole Primaire ""Léon Say""",904,492,18,41,492,3,7,482,264,218
+152,"Ecole Primaire ""Léon Say""",968,519,18,44,519,1,4,514,287,227
+153,"Ecole Primaire ""Léon Say""",948,515,17,43,516,4,2,510,279,231
+154,"Ecole Primaire ""Léon Say""",892,454,13,43,454,4,2,448,210,238
+161,"Ecole Primaire ""Charles Lebourg""",914,436,18,47,436,0,7,429,229,200
+162,"Ecole Primaire ""Charles Lebourg""",892,461,21,43,461,2,3,456,232,224
+163,"Ecole Primaire ""Charles Lebourg""",861,404,20,45,404,0,3,401,191,210
+171,"Ecole Maternelle ""Fellonneau""",898,452,26,44,452,4,3,445,212,233
+172,"Ecole Maternelle ""Fellonneau""",911,443,20,46,443,2,3,438,203,235
+173,"Ecole Maternelle ""Fellonneau""",926,513,14,41,513,5,3,505,294,211
+174,"Ecole Maternelle ""Fellonneau""",927,511,30,41,510,1,2,507,245,262
+175,"Ecole Maternelle ""Fellonneau""",884,411,30,47,411,0,0,411,154,257
+181,"Ecole Primaire ""Jean Jaures""",902,302,16,59,303,3,5,295,132,163
+182,"Ecole Primaire ""Jean Jaures""",563,266,4,29,266,2,1,263,129,134
+211,"Ecole Maternelle ""Henri Bergson""",919,379,12,54,379,0,0,379,146,233
+212,"Ecole Maternelle ""Henri Bergson""",952,248,0,70,249,2,2,245,135,110
+213,"Ecole Maternelle ""Henri Bergson""",876,207,3,66,208,1,2,205,102,103
+221,"Ecole Maternelle ""Louis Guiotton""",870,410,9,46,410,4,3,403,230,173
+222,"Ecole Maternelle ""Louis Guiotton""",905,360,17,54,360,3,4,353,137,216
+223,"Ecole Maternelle ""Louis Guiotton""",836,493,18,34,493,2,5,486,228,258
+224,"Ecole Maternelle ""Louis Guiotton""",915,442,12,47,442,6,0,436,205,231
+231,"Ecole Primaire ""Gay Lussac""",875,439,12,43,439,3,4,432,239,193
+232,"Ecole Primaire ""Gay Lussac""",871,486,26,38,486,7,3,476,263,213
+233,"Ecole Primaire ""Gay Lussac""",886,448,14,43,448,1,5,442,204,238
+234,"Ecole Primaire ""Gay Lussac""",874,437,17,43,437,1,5,431,209,222
+241,"Ecole Maternelle ""Agenêts""",858,397,17,46,397,4,2,391,196,195
+242,"Ecole Maternelle ""Agenêts""",857,466,30,39,466,4,2,460,277,183
+243,"Ecole Maternelle ""Agenêts""",834,427,25,40,426,0,2,424,246,178
+244,"Ecole Maternelle ""Agenêts""",819,405,16,41,405,1,2,402,211,191
+251,"Ecole Elementaire ""François Dallet""",1025,486,16,53,486,4,2,480,254,226
+252,"Ecole Elementaire ""François Dallet""",999,567,21,43,567,4,4,559,338,221
+253,"Ecole Elementaire ""François Dallet""",1007,446,7,56,446,2,4,440,251,189
+254,"Ecole Elementaire ""François Dallet""",1022,520,14,50,520,2,4,514,291,223
+261,"Ecole Elementaire ""Coudray""",839,423,25,41,423,2,1,420,239,181
+262,"Ecole Elementaire ""Coudray""",872,418,32,45,418,1,1,416,189,227
+263,"Ecole Elementaire ""Coudray""",815,445,27,37,445,0,7,438,219,219
+264,"Ecole Elementaire ""Coudray""",890,425,22,46,426,3,4,419,226,193
+271,"Ecole Maternelle ""Port Boyer""",874,348,8,52,348,6,1,341,167,174
+272,"Ecole Maternelle ""Port Boyer""",909,426,13,48,426,0,4,422,199,223
+273,"Ecole Maternelle ""Port Boyer""",805,397,20,40,398,2,4,392,166,226
+274,"Ecole Maternelle ""Port Boyer""",874,501,21,37,501,5,2,494,281,213
+275,"Ecole Maternelle ""Port Boyer""",816,372,3,44,372,3,2,367,191,176
+311,"Ecole Elementaire ""Chêne d'Aron""",1050,500,16,55,500,2,1,497,231,266
+312,"Ecole Elementaire ""Chêne d'Aron""",973,457,19,51,457,2,1,454,203,251
+313,"Ecole Elementaire ""Chêne d'Aron""",960,440,15,52,440,1,1,438,238,200
+314,"Ecole Elementaire ""Chêne d'Aron""",969,431,17,53,431,4,2,425,214,211
+331,"Ecole Elementaire ""André Lermite""",938,448,18,48,449,2,1,446,187,259
+332,"Ecole Elementaire ""André Lermite""",941,443,16,49,443,5,2,436,241,195
+333,"Ecole Elementaire ""André Lermite""",894,421,23,47,421,7,1,413,239,174
+334,"Ecole Elementaire ""André Lermite""",869,417,22,45,417,2,1,414,231,183
+335,"Ecole Elementaire ""André Lermite""",835,367,22,46,367,1,0,366,229,137
+341,"Ecole Elementaire ""Emile Péhant""",905,447,16,45,447,3,6,438,156,282
+342,"Ecole Elementaire ""Emile Péhant""",857,402,19,45,402,2,3,397,157,240
+343,"Ecole Elementaire ""Emile Péhant""",880,403,27,47,403,3,3,397,134,263
+351,"Ecole Maternelle ""Gustave Roch""",862,378,10,48,378,3,3,372,173,199
+352,"Ecole Maternelle ""Gustave Roch""",849,407,8,44,407,2,2,403,139,264
+353,"Ecole Maternelle ""Gustave Roch""",875,341,6,53,341,3,0,338,134,204
+354,"Ecole Maternelle ""Gustave Roch""",890,436,10,45,436,4,6,426,166,260
+355,"Ecole Maternelle ""Gustave Roch""",946,461,22,48,461,3,2,456,204,252
+361,"Ecole Maternelle ""Louise Michel""",967,443,11,52,446,0,5,439,177,262
+362,"Ecole Maternelle ""Louise Michel""",865,441,8,42,441,0,6,435,214,221
+363,"Ecole Maternelle ""Louise Michel""",860,335,6,52,335,4,2,329,139,190
+364,"Ecole Maternelle ""Louise Michel""",989,449,12,54,449,3,3,443,188,255
+365,"Ecole Maternelle ""Louise Michel""",791,276,4,51,276,3,1,272,110,162
+371,"Ecole Maternelle ""Jacques Tati""",845,349,7,49,349,0,1,348,153,195
+372,"Ecole Maternelle ""Jacques Tati""",824,307,7,51,307,2,0,305,118,187
+373,"Ecole Maternelle ""Jacques Tati""",841,380,15,46,380,1,3,376,173,203
+381,"Ecole Elementaire ""Ledru Rollin""",808,344,5,46,344,3,1,340,133,207
+382,"Ecole Elementaire ""Ledru Rollin""",884,434,15,45,434,3,0,431,167,264
+383,"Ecole Elementaire ""Ledru Rollin""",914,493,14,42,493,3,4,486,207,279
+384,"Ecole Elementaire ""Ledru Rollin""",925,439,10,48,439,3,1,435,182,253
+385,"Ecole Elementaire ""Ledru Rollin""",908,471,9,43,471,0,2,469,194,275
+411,"Ecole ""Harouys""",542,251,7,29,251,0,0,251,117,134
+412,"Ecole Maternelle ""Harouys""",705,333,14,37,333,2,2,329,184,145
+413,"Ecole Maternelle ""Harouys""",882,446,39,43,446,4,1,441,253,188
+414,"Ecole Maternelle ""Harouys""",775,358,15,41,358,0,0,358,248,110
+415,"Ecole Maternelle ""Harouys""",795,419,17,37,419,4,3,412,273,139
+416,"Ecole ""Harouys""",825,356,18,46,356,0,0,356,157,199
+421,"Ecole Elémentaire ""Boccage""",857,428,5,42,428,6,3,419,248,171
+422,"Ecole Elémentaire ""Boccage""",899,429,22,47,429,0,4,425,251,174
+423,"Ecole Elémentaire ""Boccage""",923,474,18,44,474,3,1,470,290,180
+424,"Ecole Elémentaire ""Boccage""",868,438,6,43,438,3,2,433,208,225
+425,"Ecole Elémentaire ""Boccage""",876,422,20,45,422,0,8,414,166,248
+431,"Ecole ""Mutualité""",935,477,33,45,478,4,2,472,241,231
+432,"Ecole Elementaire ""Mutualité""",873,409,17,46,409,2,3,404,177,227
+433,"Ecole Elementaire ""Mutualité""",918,532,68,38,532,6,2,524,201,323
+434,"Ecole Elementaire ""Mutualité""",922,442,11,48,442,3,3,436,220,216
+441,"Ecole Elementaire ""Garennes""",925,447,15,47,447,1,1,445,226,219
+442,"Ecole Elementaire ""Garennes""",886,397,15,48,397,1,2,394,172,222
+443,"Ecole Elementaire ""Garennes""",854,356,15,49,356,2,3,351,148,203
+444,"Ecole Elementaire ""Garennes""",935,418,11,51,418,1,7,410,161,249
+445,"Ecole Elementaire ""Garennes""",814,434,16,38,434,1,3,430,153,277
+451,"Ecole Primaire ""Réformes""",890,443,26,44,443,2,2,439,158,281
+452,"Ecole Primaire ""Réformes""",933,537,33,39,537,0,4,533,215,318
+453,"Ecole Primaire ""Réformes""",961,512,26,44,512,0,1,511,186,325
+461,"Ecole Maternelle ""Plessis-Cellier""",888,466,12,42,466,5,0,461,209,252
+462,"Ecole Maternelle ""Plessis-Cellier""",886,473,21,41,472,1,0,471,198,273
+463,"Ecole Maternelle ""Plessis-Cellier""",885,406,14,47,406,0,0,406,161,245
+471,"Groupe Scolaire ""Jean Zay""",852,278,3,57,278,2,2,274,150,124
+472,"Groupe Scolaire ""Jean Zay""",892,293,5,59,293,4,0,289,136,153
+473,"Groupe Scolaire ""Jean Zay""",935,391,9,54,391,3,0,388,194,194
+511,"Ecole Elementaire ""Grand Carcouet""",883,356,9,52,356,1,0,355,174,181
+512,"Ecole Elementaire ""Grand Carcouet""",787,339,14,44,339,7,2,330,188,142
+513,"Ecole Elementaire ""Grand Carcouet""",864,346,11,51,346,1,6,339,161,178
+521,"Ecole Maternelle ""Jacques Prévert""",793,199,3,59,199,0,0,199,98,101
+522,"Ecole Maternelle ""Jacques Prévert""",821,293,13,52,293,3,0,290,150,140
+523,"Ecole Maternelle ""Jacques Prévert""",794,240,2,55,240,1,2,237,115,122
+524,"Ecole Maternelle ""Jacques Prévert""",913,435,12,47,435,2,1,432,225,207
+525,"Ecole Maternelle ""Jacques Prévert""",983,426,16,55,426,1,2,423,236,187
+531,"Ecole Elémentaire ""Dervallières Chézine""",996,195,1,80,195,0,0,195,91,104
+532,"Ecole Elémentaire ""Dervallières Chézine""",857,204,3,65,204,2,1,201,91,110
+533,"Ecole Elémentaire ""Dervallières Chézine""",938,407,25,53,407,3,1,403,200,203
+534,"Ecole Elémentaire ""Dervallières Chézine""",967,422,12,54,422,1,1,420,223,197
+541,"Ecole Elémentaire ""Fraternité""",1001,465,13,53,465,7,4,454,200,254
+542,"Ecole Elémentaire ""Fraternité""",1041,542,19,49,542,1,2,539,273,266
+543,"Ecole Elémentaire ""Fraternité""",1019,498,16,52,498,1,5,492,289,203
+544,"Ecole Elémentaire ""Fraternité""",959,477,26,48,477,5,0,472,180,292
+545,"Ecole Elémentaire ""Fraternité""",971,458,8,51,457,4,0,453,245,208
+551,"Ecole Elementaire ""Contrie""",828,394,21,43,394,4,0,390,167,223
+552,"Ecole Elementaire ""Contrie""",973,517,7,45,517,4,1,512,254,258
+553,"Ecole Elementaire ""Contrie""",936,503,29,43,503,0,4,499,227,272
+554,"Ecole Elementaire ""Contrie""",933,413,10,52,413,2,4,407,181,226
+555,"Ecole Elementaire ""Contrie""",890,441,16,44,441,1,4,436,206,230
+561,"Ecole Maternelle ""Lucie Aubrac""",937,332,10,60,332,1,2,329,166,163
+562,"Ecole Maternelle ""Lucie Aubrac""",936,198,7,73,198,1,1,196,89,107
+563,"Ecole Maternelle ""Lucie Aubrac""",945,307,8,63,307,2,0,305,125,180
+564,"Ecole Maternelle ""Lucie Aubrac""",1008,324,9,68,324,1,0,323,160,163
+565,"Ecole Maternelle ""Lucie Aubrac""",985,426,24,55,428,1,4,423,164,259
+611,"Ecole Maternelle ""Plantes""",915,446,13,46,446,3,3,440,257,183
+612,"Ecole Maternelle ""Plantes""",897,423,19,47,423,6,2,415,227,188
+613,"Ecole Maternelle ""Plantes""",899,491,17,40,491,1,1,489,307,182
+614,"Ecole Maternelle ""Plantes""",887,448,26,43,448,3,0,445,257,188
+615,"Ecole Maternelle ""Plantes""",896,466,27,43,466,2,3,461,290,171
+621,"Ecole Maternelle ""Longchamp""",846,419,20,42,419,7,4,408,213,195
+622,"Ecole Maternelle ""Longchamp""",915,429,12,48,431,6,6,419,198,221
+623,"Ecole Maternelle ""Longchamp""",865,446,10,41,446,3,2,441,239,202
+624,"Ecole Maternelle ""Longchamp""",893,453,7,44,453,4,5,444,207,237
+625,"Ecole Maternelle ""Longchamp""",903,439,13,46,439,5,2,432,202,230
+631,"Groupe Scolaire ""Barberie Mulotière""",935,504,18,43,504,8,4,492,275,217
+632,"Groupe Scolaire ""Barberie Mulotière""",894,505,13,38,505,7,4,494,279,215
+633,"Groupe Scolaire ""Barberie Mulotière""",895,459,13,43,459,4,5,450,207,243
+634,"Groupe Scolaire ""Barberie Mulotière""",907,516,21,39,516,1,2,513,239,274
+641,"Ecole Maternelle ""Côte d'Or""",930,497,21,43,497,3,3,491,262,229
+642,"Ecole Maternelle ""Côte d'Or""",885,417,12,46,417,2,1,414,195,219
+643,"Ecole Maternelle ""Côte d'Or""",906,463,15,44,462,3,2,457,276,181
+651,"Ecole Maternelle ""Baut""",892,455,21,43,455,2,4,449,227,222
+652,"Ecole Maternelle ""Baut""",895,429,11,46,429,1,4,424,215,209
+653,"Ecole Maternelle ""Baut""",896,442,20,45,442,3,3,436,227,209
+654,"Ecole Maternelle ""Baut""",903,448,15,45,448,1,1,446,207,239
+655,"Ecole Maternelle ""Baut""",935,466,20,46,466,5,5,456,242,214
+661,"Ecole Maternelle ""Chauvinière""",883,350,8,53,350,1,2,347,179,168
+662,"Ecole Maternelle ""Chauvinière""",895,436,7,45,436,2,6,428,217,211
+663,"Ecole Maternelle ""Chauvinière""",897,244,8,65,244,3,1,240,137,103
+664,"Ecole Maternelle ""Chauvinière""",890,319,8,57,318,1,2,315,165,150
+671,"Ecole Primaire ""Françoise Dolto""",876,252,3,62,252,1,2,249,140,109
+672,"Ecole Primaire ""Françoise Dolto""",943,421,5,52,421,3,2,416,198,218
+673,"Ecole Primaire ""Françoise Dolto""",950,390,4,56,390,1,1,388,186,202
+711,"Ecole Elementaire ""Marsauderies""",948,518,23,43,518,3,2,513,317,196
+712,"Ecole Elementaire ""Marsauderies""",924,454,20,47,454,4,3,447,290,157
+713,"Ecole Elementaire ""Marsauderies""",937,376,14,56,376,1,0,375,208,167
+714,"Ecole Elementaire ""Marsauderies""",999,495,16,50,495,4,1,490,247,243
+715,"Ecole Elementaire ""Marsauderies""",980,424,6,55,424,0,0,424,245,179
+721,"Ecole Maternelle ""Urbain Leverrier""",1021,411,11,61,411,4,2,405,219,186
+722,"Ecole Maternelle ""Urbain Leverrier""",1048,414,5,63,414,0,4,410,211,199
+723,"Ecole Maternelle ""Urbain Leverrier""",959,244,5,71,244,0,3,241,132,109
+724,"Ecole Maternelle ""Urbain Leverrier""",991,314,5,67,314,3,2,309,179,130
+725,"Ecole Maternelle ""Urbain Leverrier""",1008,555,16,45,555,5,3,547,365,182
+731,"Ecole Maternelle ""Maurice Macé""",943,540,14,40,540,2,1,537,296,241
+732,"Ecole Maternelle ""Maurice Macé""",959,543,14,41,542,2,2,538,318,220
+733,"Ecole Maternelle ""Maurice Macé""",889,400,9,48,400,7,5,388,207,181
+734,"Ecole Maternelle ""Maurice Macé""",969,553,22,41,553,2,6,545,296,249
+735,"Ecole Maternelle ""Maurice Macé""",1007,553,15,45,553,3,3,547,287,260
+741,"Ecole Primaire ""Julien Gracq""",976,469,14,50,469,1,5,463,324,139
+742,"Ecole Primaire ""Julien Gracq""",980,440,19,54,440,2,6,432,276,156
+743,"Ecole Primaire ""Julien Gracq""",1037,465,7,57,465,2,2,461,288,173
+744,"Ecole Primaire ""Julien Gracq""",1246,605,13,64,605,4,5,596,343,253
+751,"Ecole Elementaire ""Beaujoire""",1041,486,18,55,486,2,2,482,265,217
+752,"Ecole Elementaire ""Beaujoire""",1002,446,11,55,446,4,10,432,258,174
+753,"Ecole Elementaire ""Beaujoire""",1025,481,12,54,480,4,5,471,278,193
+754,"Ecole Elementaire ""Beaujoire""",913,277,2,63,277,1,1,275,156,119
+761,"Ecole Maternelle ""Louis Pergaud""",976,571,18,40,571,3,7,561,279,282
+762,"Ecole Maternelle ""Louis Pergaud""",934,421,3,51,421,5,3,413,226,187
+763,"Ecole Maternelle ""Louis Pergaud""",967,524,9,44,524,1,4,519,335,184
+764,"Ecole Maternelle ""Louis Pergaud""",911,416,8,49,416,5,4,407,255,152
+765,"Ecole Maternelle ""Louis Pergaud""",1116,630,20,48,630,7,3,620,393,227
