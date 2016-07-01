@@ -30,7 +30,7 @@ Les crédits sont liés à Wikipédia dans ce cas précis.
 
 ## Projet QGIS réexploitable
 
-Vous trouverez un fichier consultation-nddl-2016-qgis.qgs pour réxploiter ces données dans le logiciel Open Source [QGIS](http://qgis.org/fr/site/) au niveau Loire-Atlantique. A vous de jouer sur la ville de Nantes.
+Vous trouverez un fichier [consultation-nddl-2016-qgis.qgs](consultation-nddl-2016-qgis.qgs) pour réxploiter ces données dans le logiciel Open Source [QGIS](http://qgis.org/fr/site/) au niveau Loire-Atlantique. A vous de jouer sur la ville de Nantes.
 
 Voici quelques aperçus
 
@@ -44,6 +44,6 @@ Voici quelques aperçus
 
 ## Notes
 
-Les jointures entre données attributaires et géographiques sont faites via ce qu'on appelle des couches virtuelles. Les chemins peuvent poser problème pour réutiliser le projet. Pour cela, changez le manuellement en éditant le chemin dans le fichier consultation-nddl-2016-qgis.qgs (bug pour le moment, nous ferons une correction sous peu si aucun alternative simple n'est trouvée rapidement)
+Les jointures entre données attributaires et géographiques sont faites via ce qu'on appelle des couches virtuelles. Les chemins peuvent poser problème pour réutiliser le projet. Pour cela, changez le manuellement en éditant le chemin dans le fichier [consultation-nddl-2016-qgis.qgs](consultation-nddl-2016-qgis.qgs) (bug pour le moment, nous ferons une correction sous peu si aucun alternative simple n'est trouvée rapidement)
 
 
