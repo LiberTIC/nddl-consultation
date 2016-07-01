@@ -3,13 +3,13 @@
   <title></title>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" checked="Qt::Checked" id="communes44_nddl20160701092333055" name="&quot;Oui&quot; (suffrage exprimé)">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="communes44_nddl20160701092333055" name="&quot;Oui&quot; (suffrage exprimé)">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Checked" id="_Oui___suffrage_exprimé__copy20160701092508386" name="&quot;Non&quot; (suffrage exprimé)">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="_Oui___suffrage_exprimé__copy20160701092508386" name="&quot;Non&quot; (suffrage exprimé)">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="Taux_abstentions20160630034139659" name="Taux abstentions">
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="_Non___suffrage_exprimé__copy20160701101011742" name="Taux abstentions">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="communes44_nddl_points20160701093405696" name="communes44-nddl-points OGRGeoJSON Point">
@@ -18,10 +18,10 @@
     <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="_Oui___parmi_les_inscrits__copy20160701093205054" name="Choroplèthes bivariés">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="communes44_nddl20160701092829148" name="&quot;Oui&quot; (parmi les inscrits)">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="communes44_nddl20160701092829148" name="&quot;Oui&quot; (parmi les inscrits)">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="communes44_nddl_OGRGeoJSON_Polygon_copy20160701092836528" name="&quot;Non&quot; (parmi les inscrits)">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="communes44_nddl_OGRGeoJSON_Polygon_copy20160701092836528" name="&quot;Non&quot; (parmi les inscrits)">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" checked="Qt::Checked" id="communes4420160628182821500" name="Communes 44">
@@ -70,24 +70,25 @@
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Points20160630232035434"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Ponctuels20160629231537170"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="virtual_layer20160628172740606"/>
-      <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="communes_4420160628163134678"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="_Oui___suffrage_exprimé__copy20160701092508386"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="communes44_nddl_OGRGeoJSON_Polygon_copy20160701092836528"/>
+      <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="communes_4420160628163134678"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Part_du_Oui__parmi_les_inscrits_20160630034422245"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Points20160630034214450"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Communes_copy20160629174848798"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="communes44_nddl20160701092333055"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Ponctuels20160629230351221"/>
-      <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="virtual_layer20160628165035382"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="communes44_nddl_points20160701093405696"/>
+      <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="virtual_layer20160628165035382"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Taux_abstentions_copy20160629225749883"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Choroplèthes_bivariés20160630034524691"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="communes4420160628182821500"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Taux_abstentions20160630034139659"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="virtual_layer20160628172341684"/>
+      <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="_Non___suffrage_exprimé__copy20160701101011742"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="virtual_layer20160628172703258"/>
-      <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="futur_aeroport_grand_ouest20160629185804396"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="_Oui___parmi_les_inscrits__copy20160701093205054"/>
+      <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="futur_aeroport_grand_ouest20160629185804396"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="Communes_majoritairement__Oui___suffrage_exprimé_20160630034028308"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="virtual_layer20160628155815534"/>
       <layer_coordinate_transform destAuthId="EPSG:2154" srcAuthId="EPSG:2154" srcDatumTransform="-1" destDatumTransform="-1" layerid="COMMUNE20160628155231964"/>
@@ -113,48 +114,48 @@
       <item>futur_aeroport_grand_ouest20160629185804396</item>
       <item>resultats_definitifs_consultation_26_juin_201620160628173727098</item>
       <item>communes4420160628182821500</item>
-      <item>Taux_abstentions20160630034139659</item>
       <item>communes44_nddl20160701092333055</item>
       <item>_Oui___suffrage_exprimé__copy20160701092508386</item>
       <item>communes44_nddl20160701092829148</item>
       <item>communes44_nddl_OGRGeoJSON_Polygon_copy20160701092836528</item>
       <item>_Oui___parmi_les_inscrits__copy20160701093205054</item>
       <item>communes44_nddl_points20160701093405696</item>
+      <item>_Non___suffrage_exprimé__copy20160701101011742</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="false">
-    <legendlayer drawingOrder="5" open="true" checked="Qt::Checked" name="&quot;Oui&quot; (suffrage exprimé)" showFeatureCount="0">
+    <legendlayer drawingOrder="4" open="true" checked="Qt::Unchecked" name="&quot;Oui&quot; (suffrage exprimé)" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="communes44_nddl20160701092333055" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="communes44_nddl20160701092333055" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="6" open="true" checked="Qt::Checked" name="&quot;Non&quot; (suffrage exprimé)" showFeatureCount="0">
+    <legendlayer drawingOrder="5" open="true" checked="Qt::Unchecked" name="&quot;Non&quot; (suffrage exprimé)" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="_Oui___suffrage_exprimé__copy20160701092508386" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="_Oui___suffrage_exprimé__copy20160701092508386" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="4" open="false" checked="Qt::Unchecked" name="Taux abstentions" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Taux_abstentions20160630034139659" visible="0"/>
+    <legendlayer drawingOrder="10" open="true" checked="Qt::Checked" name="Taux abstentions" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="_Non___suffrage_exprimé__copy20160701101011742" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="10" open="false" checked="Qt::Unchecked" name="communes44-nddl-points OGRGeoJSON Point" showFeatureCount="0">
+    <legendlayer drawingOrder="9" open="false" checked="Qt::Unchecked" name="communes44-nddl-points OGRGeoJSON Point" showFeatureCount="0">
       <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="communes44_nddl_points20160701093405696" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="9" open="false" checked="Qt::Unchecked" name="Choroplèthes bivariés" showFeatureCount="0">
+    <legendlayer drawingOrder="8" open="false" checked="Qt::Unchecked" name="Choroplèthes bivariés" showFeatureCount="0">
       <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="_Oui___parmi_les_inscrits__copy20160701093205054" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="7" open="false" checked="Qt::Unchecked" name="&quot;Oui&quot; (parmi les inscrits)" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
+    <legendlayer drawingOrder="6" open="true" checked="Qt::Unchecked" name="&quot;Oui&quot; (parmi les inscrits)" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="communes44_nddl20160701092829148" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="8" open="false" checked="Qt::Unchecked" name="&quot;Non&quot; (parmi les inscrits)" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
+    <legendlayer drawingOrder="7" open="true" checked="Qt::Unchecked" name="&quot;Non&quot; (parmi les inscrits)" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="communes44_nddl_OGRGeoJSON_Polygon_copy20160701092836528" visible="0"/>
       </filegroup>
     </legendlayer>
@@ -249,7 +250,7 @@
       </symbol>
     </AnnotationItem>
   </TextAnnotationItem>
-  <Composer title="Abstention" visible="0">
+  <Composer title="Abstention" visible="1">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -266,21 +267,13 @@
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <ComposerPicture resizeMode="0" svgBorderWidth="0" pictureRotation="0" pictureWidth="15.2779" svgFillColor="0,0,0,255" svgBorderColor="255,255,255,255" file="/usr/share/qgis/svg/arrows/NorthArrow_04.svg" pictureHeight="24.2943" mapId="-1" anchorPoint="4">
-        <ComposerItem pagey="114.353" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="232.032" y="114.353" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="32.7229" outlineWidth="0.3" excludeFromExports="0" uuid="{0653d249-8b32-442a-9caf-ba59eae83c31}" height="24.2943" itemRotation="0" frame="false" pagex="232.032">
-          <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-          <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
-          <customproperties/>
-        </ComposerItem>
-      </ComposerPicture>
-      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="8.25805" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="5000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="2" boxContentSpace="1" mapId="0" unitLabel="km">
+      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
         <scaleBarFont description="Ubuntu,12,-1,5,50,0,0,0,0,0" style=""/>
         <fillColor alpha="255" red="0" blue="0" green="0"/>
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="145.498" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="225.507" y="145.498" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="54.2199" outlineWidth="0.3" excludeFromExports="0" uuid="{be249ad2-fc70-4995-835f-7f1c297c0858}" height="18.5126" itemRotation="0" frame="false" pagex="225.507">
+        <ComposerItem pagey="143.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="218.139" y="143.331" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{be249ad2-fc70-4995-835f-7f1c297c0858}" height="18.5126" itemRotation="0" frame="false" pagex="218.139">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -289,7 +282,7 @@
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
         <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{7c0d5002-aceb-40ce-938b-58d55ae2cd33}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
+        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="188.276" y="176.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{7c0d5002-aceb-40ce-938b-58d55ae2cd33}" height="24.9706" itemRotation="0" frame="false" pagex="188.276">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -346,15 +339,18 @@
             <styleFont description="Roboto,12,-1,5,50,0,0,0,0,0" style="Regular"/>
           </style>
         </styles>
-        <layer-tree-group expanded="1" checked="Qt::Unchecked" name="">
+        <layer-tree-group expanded="1" checked="Qt::Checked" name="">
           <customproperties/>
-          <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Taux_abstentions20160630034139659" name="Taux abstentions">
+          <layer-tree-layer expanded="1" checked="Qt::Checked" id="_Non___suffrage_exprimé__copy20160701101011742" name="Taux abstentions">
             <customproperties>
+              <property key="legend/expressionFilter" value=""/>
+              <property key="legend/expressionFilterEnabled" value="true"/>
+              <property key="legend/node-order" value="4,3,2,1,0"/>
               <property key="showFeatureCount" value="0"/>
             </customproperties>
           </layer-tree-layer>
         </layer-tree-group>
-        <ComposerItem pagey="126.5" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="47.6558" y="126.5" visibility="1" zValue="3" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="36.4094" outlineWidth="0.3" excludeFromExports="0" uuid="{36323004-0c09-4cfc-9b3c-8046c084cf78}" height="41.4" itemRotation="0" frame="false" pagex="47.6558">
+        <ComposerItem pagey="126.5" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="47.6558" y="126.5" visibility="1" zValue="3" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="39.2969" outlineWidth="0.3" excludeFromExports="0" uuid="{36323004-0c09-4cfc-9b3c-8046c084cf78}" height="41.4" itemRotation="0" frame="false" pagex="47.6558">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -376,11 +372,11 @@
           <Layer>futur_aeroport_grand_ouest20160629185804396</Layer>
           <Layer>resultats_definitifs_consultation_26_juin_201620160628173727098</Layer>
           <Layer>communes4420160628182821500</Layer>
-          <Layer>Taux_abstentions20160630034139659</Layer>
+          <Layer>_Non___suffrage_exprimé__copy20160701101011742</Layer>
         </LayerSet>
         <LayerStyles>
-          <LayerStyle layerid="Taux_abstentions20160630034139659">
-            <qgis version="2.14.3-Essen" minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+          <LayerStyle layerid="_Non___suffrage_exprimé__copy20160701101011742">
+            <qgis version="2.14.3-Essen" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
               <edittypes>
                 <edittype widgetv2type="TextEdit" name="code_insee">
                   <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
@@ -448,11 +444,11 @@
               </edittypes>
               <renderer-v2 attr="100 - participation_p" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
                 <ranges>
-                  <range render="true" symbol="0" lower="24.849999999999994" upper="38.033999999999999" label=" 25 - 38"/>
-                  <range render="true" symbol="1" lower="38.033999999999999" upper="43.793999999999997" label=" 38 - 44 "/>
-                  <range render="true" symbol="2" lower="43.793999999999997" upper="47.609999999999999" label=" 44 - 48 "/>
-                  <range render="true" symbol="3" lower="47.609999999999999" upper="51.534000000000006" label=" 48 - 52"/>
-                  <range render="true" symbol="4" lower="51.534000000000006" upper="59.909999999999997" label=" 52 - 60 "/>
+                  <range render="true" symbol="0" lower="24.849999999999994" upper="38.033999999999999" label="24.8% - 38%"/>
+                  <range render="true" symbol="1" lower="38.033999999999999" upper="43.793999999999997" label="38% - 43.8%"/>
+                  <range render="true" symbol="2" lower="43.793999999999997" upper="47.609999999999999" label="43.8% - 47.6%"/>
+                  <range render="true" symbol="3" lower="47.609999999999999" upper="51.534000000000006" label="47.6% - 51.5%"/>
+                  <range render="true" symbol="4" lower="51.534000000000006" upper="59.909999999999997" label="51.5% - 59.9%"/>
                 </ranges>
                 <symbols>
                   <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -561,32 +557,7 @@
                 <labelformat format=" %1 - %2 " trimtrailingzeroes="true" decimalplaces="1"/>
               </renderer-v2>
               <labeling type="rule-based">
-                <rules>
-                  <rule description="Label Nantes" filter=" &quot;code_insee&quot; = '44109'">
-                    <settings>
-                      <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="1" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="13" fieldName=" upper( communes)" namedStyle="Medium" fontWordSpacing="0"/>
-                      <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-                      <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-                      <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-                      <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-                      <placement repeatDistanceUnit="1" placement="0" repeatDistance="0" maxCurvedCharAngleIn="20" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" repeatDistanceMapUnitScale="0,0,0,0,0,0" preserveRotation="1" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-                      <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-                      <data-defined/>
-                    </settings>
-                  </rule>
-                  <rule description="Saint-Nazaire et Châteaubriant" filter=" &quot;code_insee&quot; IN ('44184', '44036')">
-                    <settings>
-                      <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="0" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="11" fieldName="communes" namedStyle="Medium" fontWordSpacing="0"/>
-                      <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-                      <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-                      <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-                      <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-                      <placement repeatDistanceUnit="1" placement="0" repeatDistance="0" maxCurvedCharAngleIn="20" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" repeatDistanceMapUnitScale="0,0,0,0,0,0" preserveRotation="1" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-                      <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-                      <data-defined/>
-                    </settings>
-                  </rule>
-                </rules>
+                <rules/>
               </labeling>
               <customproperties>
                 <property key="labeling/addDirectionSymbol" value="false"/>
@@ -1813,7 +1784,7 @@ def my_form_open(dialog, layer, feature):
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="Résultat consultation" visible="0">
+  <Composer title="Résultat consultation" visible="1">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -1830,21 +1801,13 @@ def my_form_open(dialog, layer, feature):
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <ComposerPicture resizeMode="0" svgBorderWidth="0" pictureRotation="0" pictureWidth="15.2779" svgFillColor="0,0,0,255" svgBorderColor="255,255,255,255" file="/usr/share/qgis/svg/arrows/NorthArrow_04.svg" pictureHeight="24.2943" mapId="-1" anchorPoint="4">
-        <ComposerItem pagey="116.353" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="232.032" y="116.353" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="32.7229" outlineWidth="0.3" excludeFromExports="0" uuid="{d1ed73d8-e76e-435c-bd05-6c809e5d3a02}" height="24.2943" itemRotation="0" frame="false" pagex="232.032">
-          <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-          <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
-          <customproperties/>
-        </ComposerItem>
-      </ComposerPicture>
-      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="8.25805" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="5000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="2" boxContentSpace="1" mapId="0" unitLabel="km">
+      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
         <scaleBarFont description="Ubuntu,12,-1,5,50,0,0,0,0,0" style=""/>
         <fillColor alpha="255" red="0" blue="0" green="0"/>
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="145.498" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="225.507" y="145.498" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="54.2199" outlineWidth="0.3" excludeFromExports="0" uuid="{a5f4c732-d8c1-4264-ae4d-26396afd3516}" height="18.5126" itemRotation="0" frame="false" pagex="225.507">
+        <ComposerItem pagey="146.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="146.331" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{f805aaa7-ccf8-4055-b39c-3912137737f3}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -1853,7 +1816,7 @@ def my_form_open(dialog, layer, feature):
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
         <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="179.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="179.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{ff22e08f-1065-4b62-88ef-2de74d4aa2f5}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
+        <ComposerItem pagey="179.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="179.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{b613ab68-f27f-48f4-b174-b3d833ccfbb6}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -1919,7 +1882,7 @@ def my_form_open(dialog, layer, feature):
             <customproperties/>
           </layer-tree-layer>
         </layer-tree-group>
-        <ComposerItem pagey="127.229" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="38.1205" y="127.229" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="50.5109" outlineWidth="0.3" excludeFromExports="0" uuid="{4adc8a51-e0b0-41a1-a188-4811248b5585}" height="54.8" itemRotation="0" frame="false" pagex="38.1205">
+        <ComposerItem pagey="127.229" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="38.1205" y="127.229" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="50.5719" outlineWidth="0.3" excludeFromExports="0" uuid="{4adc8a51-e0b0-41a1-a188-4811248b5585}" height="54.8" itemRotation="0" frame="false" pagex="38.1205">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -1946,7 +1909,7 @@ def my_form_open(dialog, layer, feature):
         </LayerSet>
         <LayerStyles>
           <LayerStyle layerid="_Oui___suffrage_exprimé__copy20160701092508386">
-            <qgis version="2.14.3-Essen" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+            <qgis version="2.14.3-Essen" minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
               <edittypes>
                 <edittype widgetv2type="TextEdit" name="code_insee">
                   <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
@@ -2014,9 +1977,9 @@ def my_form_open(dialog, layer, feature):
               </edittypes>
               <renderer-v2 attr="non_p" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
                 <ranges>
-                  <range render="true" symbol="0" lower="50.000000000000000" upper="51.799999999999997" label="Non - 50 - 51.8 "/>
-                  <range render="true" symbol="1" lower="51.799999999999997" upper="57.119999999999997" label="Non - 51.8 - 57.1 "/>
-                  <range render="true" symbol="2" lower="57.119999999999997" upper="73.569999999999993" label="Non - 57.1 - 73.6 "/>
+                  <range render="true" symbol="0" lower="50.000000000000000" upper="51.799999999999997" label="Non - 50% - 51.8%"/>
+                  <range render="true" symbol="1" lower="51.799999999999997" upper="57.119999999999997" label="Non - 51.8% - 57.1%"/>
+                  <range render="true" symbol="2" lower="57.119999999999997" upper="73.569999999999993" label="Non - 57.1% - 73.6%"/>
                 </ranges>
                 <symbols>
                   <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -2232,6 +2195,8 @@ def my_form_open(dialog, layer, feature):
                 <property key="labeling/xOffset" value="0"/>
                 <property key="labeling/yOffset" value="0"/>
                 <property key="labeling/zIndex" value="0"/>
+                <property key="variableNames" value="_fields_"/>
+                <property key="variableValues" value=""/>
               </customproperties>
               <blendMode>0</blendMode>
               <featureBlendMode>0</featureBlendMode>
@@ -2884,7 +2849,7 @@ def my_form_open(dialog, layer, feature):
             </qgis>
           </LayerStyle>
           <LayerStyle layerid="communes44_nddl20160701092333055">
-            <qgis version="2.14.3-Essen" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+            <qgis version="2.14.3-Essen" minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
               <edittypes>
                 <edittype widgetv2type="TextEdit" name="code_insee">
                   <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
@@ -2952,9 +2917,9 @@ def my_form_open(dialog, layer, feature):
               </edittypes>
               <renderer-v2 attr="oui_p" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
                 <ranges>
-                  <range render="true" symbol="0" lower="50.000000000000000" upper="57.700000000000003" label="Oui - 50 - 57.7 "/>
-                  <range render="true" symbol="1" lower="57.700000000000003" upper="63.560000000000002" label="Oui - 57.7 - 63.6 "/>
-                  <range render="true" symbol="2" lower="63.560000000000002" upper="85.099999999999994" label="Oui - 63.6 - 85.1 "/>
+                  <range render="true" symbol="0" lower="50.000000000000000" upper="57.700000000000003" label="Oui - 50% - 57.7%"/>
+                  <range render="true" symbol="1" lower="57.700000000000003" upper="63.560000000000002" label="Oui - 57.7% - 63.6% "/>
+                  <range render="true" symbol="2" lower="63.560000000000002" upper="85.099999999999994" label="Oui - 63.6% - 85.1%"/>
                 </ranges>
                 <symbols>
                   <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -3063,7 +3028,7 @@ def my_form_open(dialog, layer, feature):
                 <property key="labeling/fitInPolygonOnly" value="false"/>
                 <property key="labeling/fontCapitals" value="0"/>
                 <property key="labeling/fontFamily" value="Ubuntu"/>
-                <property key="labeling/fontItalic" value="false"/>
+                <property key="labeling/fontItalic" value="true"/>
                 <property key="labeling/fontLetterSpacing" value="0"/>
                 <property key="labeling/fontLimitPixelSize" value="false"/>
                 <property key="labeling/fontMaxPixelSize" value="10000"/>
@@ -3073,7 +3038,7 @@ def my_form_open(dialog, layer, feature):
                 <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
                 <property key="labeling/fontStrikeout" value="false"/>
                 <property key="labeling/fontUnderline" value="false"/>
-                <property key="labeling/fontWeight" value="50"/>
+                <property key="labeling/fontWeight" value="63"/>
                 <property key="labeling/fontWordSpacing" value="0"/>
                 <property key="labeling/formatNumbers" value="false"/>
                 <property key="labeling/isExpression" value="true"/>
@@ -3170,6 +3135,8 @@ def my_form_open(dialog, layer, feature):
                 <property key="labeling/xOffset" value="0"/>
                 <property key="labeling/yOffset" value="0"/>
                 <property key="labeling/zIndex" value="0"/>
+                <property key="variableNames" value="_fields_"/>
+                <property key="variableValues" value=""/>
               </customproperties>
               <blendMode>0</blendMode>
               <featureBlendMode>0</featureBlendMode>
@@ -3677,7 +3644,7 @@ def my_form_open(dialog, layer, feature):
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="Oui inscrits" visible="0">
+  <Composer title="Oui inscrits" visible="1">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -3694,21 +3661,13 @@ def my_form_open(dialog, layer, feature):
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <ComposerPicture resizeMode="0" svgBorderWidth="0" pictureRotation="0" pictureWidth="15.2779" svgFillColor="0,0,0,255" svgBorderColor="255,255,255,255" file="/usr/share/qgis/svg/arrows/NorthArrow_04.svg" pictureHeight="24.2943" mapId="-1" anchorPoint="4">
-        <ComposerItem pagey="114.353" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="232.032" y="114.353" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="32.7229" outlineWidth="0.3" excludeFromExports="0" uuid="{367d8ac8-183f-4503-a33b-aa1261bff452}" height="24.2943" itemRotation="0" frame="false" pagex="232.032">
-          <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-          <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
-          <customproperties/>
-        </ComposerItem>
-      </ComposerPicture>
-      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="8.25805" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="5000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="2" boxContentSpace="1" mapId="0" unitLabel="km">
+      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
         <scaleBarFont description="Ubuntu,12,-1,5,50,0,0,0,0,0" style=""/>
         <fillColor alpha="255" red="0" blue="0" green="0"/>
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="145.498" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="225.507" y="145.498" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="54.2199" outlineWidth="0.3" excludeFromExports="0" uuid="{71b8657e-0ad3-4c62-8eba-a82b5207d3f5}" height="18.5126" itemRotation="0" frame="false" pagex="225.507">
+        <ComposerItem pagey="143.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="143.331" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{09f8d9b5-c815-4ff2-96c9-eb93a156d4e0}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -3717,7 +3676,7 @@ def my_form_open(dialog, layer, feature):
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
         <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{d580b1d8-a51b-4088-9512-5137d1740b01}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
+        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{c9b41d4e-90a4-4086-b978-fe39c5a737b6}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -4454,11 +4413,11 @@ def my_form_open(dialog, layer, feature):
               </edittypes>
               <renderer-v2 attr="round(&quot;oui_v&quot;/ &quot;inscrits&quot; * 100,  2)" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
                 <ranges>
-                  <range render="true" symbol="0" lower="18.340000000000000" upper="25.552000000000000" label=" 18.3 - 25.6 "/>
-                  <range render="true" symbol="1" lower="25.552000000000000" upper="28.619999999999997" label=" 25.6 - 28.6 "/>
-                  <range render="true" symbol="2" lower="28.619999999999997" upper="33.049999999999997" label=" 28.6 - 33 "/>
-                  <range render="true" symbol="3" lower="33.049999999999997" upper="38.536000000000001" label=" 33 - 38.5 "/>
-                  <range render="true" symbol="4" lower="38.536000000000001" upper="51.930000000000000" label=" 38.5 - 51.9 "/>
+                  <range render="true" symbol="0" lower="18.340000000000000" upper="25.552000000000000" label="18.3% - 25.6%"/>
+                  <range render="true" symbol="1" lower="25.552000000000000" upper="28.619999999999997" label="25.6% - 28.6%"/>
+                  <range render="true" symbol="2" lower="28.619999999999997" upper="33.049999999999997" label="28.6% - 33%"/>
+                  <range render="true" symbol="3" lower="33.049999999999997" upper="38.536000000000001" label="33% - 38.5%"/>
+                  <range render="true" symbol="4" lower="38.536000000000001" upper="51.930000000000000" label="38.5% - 51.9%"/>
                 </ranges>
                 <symbols>
                   <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -4567,32 +4526,7 @@ def my_form_open(dialog, layer, feature):
                 <labelformat format=" %1 - %2 " trimtrailingzeroes="true" decimalplaces="1"/>
               </renderer-v2>
               <labeling type="rule-based">
-                <rules>
-                  <rule description="Label Nantes" filter=" &quot;code_insee&quot; = '44109'">
-                    <settings>
-                      <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="1" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="13" fieldName=" upper( communes)" namedStyle="Medium" fontWordSpacing="0"/>
-                      <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-                      <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-                      <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-                      <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-                      <placement repeatDistanceUnit="1" placement="0" repeatDistance="0" maxCurvedCharAngleIn="20" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" repeatDistanceMapUnitScale="0,0,0,0,0,0" preserveRotation="1" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-                      <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-                      <data-defined/>
-                    </settings>
-                  </rule>
-                  <rule description="Saint-Nazaire et Châteaubriant" filter=" &quot;code_insee&quot; IN ('44184', '44036')">
-                    <settings>
-                      <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="0" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="11" fieldName="communes" namedStyle="Medium" fontWordSpacing="0"/>
-                      <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-                      <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-                      <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-                      <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-                      <placement repeatDistanceUnit="1" placement="0" repeatDistance="0" maxCurvedCharAngleIn="20" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" repeatDistanceMapUnitScale="0,0,0,0,0,0" preserveRotation="1" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-                      <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-                      <data-defined/>
-                    </settings>
-                  </rule>
-                </rules>
+                <rules/>
               </labeling>
               <customproperties>
                 <property key="labeling/addDirectionSymbol" value="false"/>
@@ -4730,6 +4664,8 @@ def my_form_open(dialog, layer, feature):
                 <property key="labeling/xOffset" value="0"/>
                 <property key="labeling/yOffset" value="0"/>
                 <property key="labeling/zIndex" value="0"/>
+                <property key="variableNames" value="_fields_"/>
+                <property key="variableValues" value=""/>
               </customproperties>
               <blendMode>0</blendMode>
               <featureBlendMode>0</featureBlendMode>
@@ -5237,7 +5173,7 @@ def my_form_open(dialog, layer, feature):
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="Non inscrits" visible="0">
+  <Composer title="Non inscrits" visible="1">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -5254,21 +5190,13 @@ def my_form_open(dialog, layer, feature):
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <ComposerPicture resizeMode="0" svgBorderWidth="0" pictureRotation="0" pictureWidth="15.2779" svgFillColor="0,0,0,255" svgBorderColor="255,255,255,255" file="/usr/share/qgis/svg/arrows/NorthArrow_04.svg" pictureHeight="24.2943" mapId="-1" anchorPoint="4">
-        <ComposerItem pagey="114.353" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="232.032" y="114.353" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="32.7229" outlineWidth="0.3" excludeFromExports="0" uuid="{2fe8f040-5840-4c17-b7c8-5141b793cbb5}" height="24.2943" itemRotation="0" frame="false" pagex="232.032">
-          <FrameColor alpha="255" red="0" blue="0" green="0"/>
-          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-          <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
-          <customproperties/>
-        </ComposerItem>
-      </ComposerPicture>
-      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="8.25805" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="5000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="2" boxContentSpace="1" mapId="0" unitLabel="km">
+      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
         <scaleBarFont description="Ubuntu,12,-1,5,50,0,0,0,0,0" style=""/>
         <fillColor alpha="255" red="0" blue="0" green="0"/>
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="145.498" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="225.507" y="145.498" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="54.2199" outlineWidth="0.3" excludeFromExports="0" uuid="{39a448f2-6b90-46d3-888d-8db9b0d405a4}" height="18.5126" itemRotation="0" frame="false" pagex="225.507">
+        <ComposerItem pagey="143.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="143.331" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{a675767a-1f46-439e-b358-dd562e647437}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -5277,7 +5205,7 @@ def my_form_open(dialog, layer, feature):
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
         <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{1d5fbefc-7cc6-494a-a937-b6f27cda51e2}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
+        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{743eac2d-61da-4254-9788-8063aa45a9b9}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -5337,7 +5265,9 @@ def my_form_open(dialog, layer, feature):
         <layer-tree-group expanded="1" checked="Qt::Unchecked" name="">
           <customproperties/>
           <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="communes44_nddl_OGRGeoJSON_Polygon_copy20160701092836528" name="&quot;Non&quot; (parmi les inscrits)">
-            <customproperties/>
+            <customproperties>
+              <property key="legend/node-order" value="4,3,2,1,0"/>
+            </customproperties>
           </layer-tree-layer>
         </layer-tree-group>
         <ComposerItem pagey="126.5" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="43.3216" y="126.5" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="50.8422" outlineWidth="0.3" excludeFromExports="0" uuid="{bc902231-38fa-4b1d-8ed2-ca3cdbb59fb7}" height="41.4" itemRotation="0" frame="false" pagex="43.3216">
@@ -6014,11 +5944,11 @@ def my_form_open(dialog, layer, feature):
               </edittypes>
               <renderer-v2 attr="round(&quot;non_v&quot;/ &quot;inscrits&quot; * 100,  2)" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
                 <ranges>
-                  <range render="true" symbol="0" lower="9.070000000000000" upper="17.456000000000000" label=" 9.1 - 17.5 "/>
-                  <range render="true" symbol="1" lower="17.456000000000000" upper="19.859999999999999" label=" 17.5 - 19.9 "/>
-                  <range render="true" symbol="2" lower="19.859999999999999" upper="22.760000000000002" label=" 19.9 - 22.8 "/>
-                  <range render="true" symbol="3" lower="22.760000000000002" upper="25.978000000000002" label=" 22.8 - 26 "/>
-                  <range render="true" symbol="4" lower="25.978000000000002" upper="54.789999999999999" label=" 26 - 54.8 "/>
+                  <range render="true" symbol="0" lower="9.070000000000000" upper="17.456000000000000" label="9.1% - 17.5%"/>
+                  <range render="true" symbol="1" lower="17.456000000000000" upper="19.859999999999999" label="17.5% - 19.9%"/>
+                  <range render="true" symbol="2" lower="19.859999999999999" upper="22.760000000000002" label="19.9% - 22.8%"/>
+                  <range render="true" symbol="3" lower="22.760000000000002" upper="25.978000000000002" label="22.8% - 26%"/>
+                  <range render="true" symbol="4" lower="25.978000000000002" upper="54.789999999999999" label="26% - 54.8%"/>
                 </ranges>
                 <symbols>
                   <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -6127,32 +6057,7 @@ def my_form_open(dialog, layer, feature):
                 <labelformat format=" %1 - %2 " trimtrailingzeroes="true" decimalplaces="1"/>
               </renderer-v2>
               <labeling type="rule-based">
-                <rules>
-                  <rule description="Label Nantes" filter=" &quot;code_insee&quot; = '44109'">
-                    <settings>
-                      <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="1" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="13" fieldName=" upper( communes)" namedStyle="Medium" fontWordSpacing="0"/>
-                      <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-                      <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-                      <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-                      <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-                      <placement repeatDistanceUnit="1" placement="0" repeatDistance="0" maxCurvedCharAngleIn="20" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" repeatDistanceMapUnitScale="0,0,0,0,0,0" preserveRotation="1" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-                      <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-                      <data-defined/>
-                    </settings>
-                  </rule>
-                  <rule description="Saint-Nazaire et Châteaubriant" filter=" &quot;code_insee&quot; IN ('44184', '44036')">
-                    <settings>
-                      <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="0" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="11" fieldName="communes" namedStyle="Medium" fontWordSpacing="0"/>
-                      <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-                      <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-                      <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-                      <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-                      <placement repeatDistanceUnit="1" placement="0" repeatDistance="0" maxCurvedCharAngleIn="20" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" repeatDistanceMapUnitScale="0,0,0,0,0,0" preserveRotation="1" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-                      <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-                      <data-defined/>
-                    </settings>
-                  </rule>
-                </rules>
+                <rules/>
               </labeling>
               <customproperties>
                 <property key="labeling/addDirectionSymbol" value="false"/>
@@ -6290,6 +6195,8 @@ def my_form_open(dialog, layer, feature):
                 <property key="labeling/xOffset" value="0"/>
                 <property key="labeling/yOffset" value="0"/>
                 <property key="labeling/zIndex" value="0"/>
+                <property key="variableNames" value="_fields_"/>
+                <property key="variableValues" value=""/>
               </customproperties>
               <blendMode>0</blendMode>
               <featureBlendMode>0</featureBlendMode>
@@ -6782,7 +6689,7 @@ def my_form_open(dialog, layer, feature):
           <annotationFontProperties description="Ubuntu,11,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="4.5" page="1" id="" lastValidViewScaleFactor="2.30723" positionMode="0" positionLock="false" x="6.36429" y="4.5" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="284.271" outlineWidth="0.3" excludeFromExports="0" uuid="{df411d75-aef7-4e2a-8991-e7ef81821e81}" height="201" itemRotation="0" frame="false" pagex="6.36429">
+        <ComposerItem pagey="4.5" page="1" id="" lastValidViewScaleFactor="2.30723" positionMode="0" positionLock="false" x="6.36429" y="4.5" visibility="1" zValue="1" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="284.271" outlineWidth="0.3" excludeFromExports="0" uuid="{df411d75-aef7-4e2a-8991-e7ef81821e81}" height="201" itemRotation="0" frame="false" pagex="6.36429">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -6799,25 +6706,25 @@ def my_form_open(dialog, layer, feature):
   </Composer>
   <projectlayers>
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>Taux_abstentions20160630034139659</id>
-      <datasource>?layer=ogr:%2Fhome%2Fthomasg%2Fgit%2Fnddl-consultation%2Fcommunes44.shp:communes44:UTF-8&amp;layer=ogr:%2Fhome%2Fthomasg%2Fgit%2Fnddl-consultation%2Fresultats-definitifs-consultation-26-juin-2016.csv:resultats-definitifs-consultation-26-juin-2016:UTF-8&amp;query=SELECT%20%22resultats-definitifs-consultation-26-juin-2016%22.*,%0A%22communes44%22.*%20%0AFROM%20%22communes44%22,%20%22resultats-definitifs-consultation-26-juin-2016%22%0AWHERE%20%22communes44%22.%22INSEE_COM%22%20%3D%20%22resultats-definitifs-consultation-26-juin-2016%22.%22code_insee%22</datasource>
+      <id>_Non___suffrage_exprimé__copy20160701101011742</id>
+      <datasource>./communes44-nddl.geojson</datasource>
       <keywordList>
         <value></value>
       </keywordList>
       <layername>Taux abstentions</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=lcc +lat_1=49 +lat_2=44 +lat_0=46.5 +lon_0=3 +x_0=700000 +y_0=6600000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
-          <srsid>145</srsid>
-          <srid>2154</srid>
-          <authid>EPSG:2154</authid>
-          <description>RGF93 / Lambert-93</description>
-          <projectionacronym>lcc</projectionacronym>
-          <ellipsoidacronym>GRS80</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
         </spatialrefsys>
       </srs>
-      <provider encoding="UTF-8">virtual</provider>
+      <provider encoding="UTF-8">ogr</provider>
       <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
@@ -6892,17 +6799,17 @@ def my_form_open(dialog, layer, feature):
       </edittypes>
       <renderer-v2 attr="100 - participation_p" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
         <ranges>
-          <range render="true" symbol="0" lower="24.849999999999994" upper="38.033999999999999" label=" 25 - 38"/>
-          <range render="true" symbol="1" lower="38.033999999999999" upper="43.793999999999997" label=" 38 - 44 "/>
-          <range render="true" symbol="2" lower="43.793999999999997" upper="47.609999999999999" label=" 44 - 48 "/>
-          <range render="true" symbol="3" lower="47.609999999999999" upper="51.534000000000006" label=" 48 - 52"/>
-          <range render="true" symbol="4" lower="51.534000000000006" upper="59.909999999999997" label=" 52 - 60 "/>
+          <range render="true" symbol="0" lower="51.534000000000006" upper="59.909999999999997" label="51.5% - 59.9%"/>
+          <range render="true" symbol="1" lower="47.609999999999999" upper="51.534000000000006" label="47.6% - 51.5%"/>
+          <range render="true" symbol="2" lower="43.793999999999997" upper="47.609999999999999" label="43.8% - 47.6%"/>
+          <range render="true" symbol="3" lower="38.033999999999999" upper="43.793999999999997" label="38% - 43.8%"/>
+          <range render="true" symbol="4" lower="24.849999999999994" upper="38.033999999999999" label="24.8% - 38%"/>
         </ranges>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="247,252,245,255"/>
+              <prop k="color" v="0,68,27,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -6917,7 +6824,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="201,233,194,255"/>
+              <prop k="color" v="41,146,74,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -6947,7 +6854,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="3">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="41,146,74,255"/>
+              <prop k="color" v="201,233,194,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -6962,7 +6869,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="4">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="0,68,27,255"/>
+              <prop k="color" v="247,252,245,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -7005,32 +6912,7 @@ def my_form_open(dialog, layer, feature):
         <labelformat format=" %1 - %2 " trimtrailingzeroes="true" decimalplaces="1"/>
       </renderer-v2>
       <labeling type="rule-based">
-        <rules>
-          <rule description="Label Nantes" filter=" &quot;code_insee&quot; = '44109'">
-            <settings>
-              <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="1" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="13" fieldName=" upper( communes)" namedStyle="Medium" fontWordSpacing="0"/>
-              <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-              <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-              <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-              <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-              <placement repeatDistanceUnit="1" placement="0" maxCurvedCharAngleIn="20" repeatDistance="0" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" preserveRotation="1" repeatDistanceMapUnitScale="0,0,0,0,0,0" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-              <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-              <data-defined/>
-            </settings>
-          </rule>
-          <rule description="Saint-Nazaire et Châteaubriant" filter=" &quot;code_insee&quot; IN ('44184', '44036')">
-            <settings>
-              <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="0" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="11" fieldName="communes" namedStyle="Medium" fontWordSpacing="0"/>
-              <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-              <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-              <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-              <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-              <placement repeatDistanceUnit="1" placement="0" maxCurvedCharAngleIn="20" repeatDistance="0" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" preserveRotation="1" repeatDistanceMapUnitScale="0,0,0,0,0,0" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-              <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-              <data-defined/>
-            </settings>
-          </rule>
-        </rules>
+        <rules/>
       </labeling>
       <customproperties>
         <property key="labeling/addDirectionSymbol" value="false"/>
@@ -7521,12 +7403,12 @@ def my_form_open(dialog, layer, feature):
       <LinearlyInterpolatedDiagramRenderer upperValue="181968" lowerHeight="0" upperHeight="15" lowerValue="0" diagramType="Pie" upperWidth="15" classificationAttribute="9" lowerWidth="0">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="1" height="15" sizeType="MM" minScaleDenominator="-4.65661e-10">
           <fontProperties description="Ubuntu,11,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field=" &quot;oui_p&quot; > 50 AND &quot;oui_p&quot; &lt;= 57.7" color="#f7fbff" label="Oui - 50 - 57.7"/>
-          <attribute field=" &quot;oui_p&quot; > 57.7 AND &quot;oui_p&quot; &lt;= 63.6" color="#72b2d7" label="Oui - 57.7 - 63.6"/>
-          <attribute field=" &quot;oui_p&quot; > 63.6 AND &quot;oui_p&quot; &lt;= 85.1" color="#08306b" label="Oui - 63.6 - 85.1"/>
-          <attribute field=" &quot;non_p&quot; > 50 AND &quot;non_p&quot; &lt;= 51.8" color="#fef0d9" label="Non -  50 - 51.8"/>
-          <attribute field=" &quot;non_p&quot; > 51.8 AND &quot;non_p&quot; &lt;= 57.1" color="#fc8d59" label="Non - 51.8 - 57.1"/>
-          <attribute field=" &quot;non_p&quot; > 57.1 AND &quot;non_p&quot; &lt;= 73.6" color="#b30000" label="Non - 57.1 - 73.6"/>
+          <attribute field=" &quot;oui_p&quot; > 63.6 AND &quot;oui_p&quot; &lt;= 85.1" color="#08306b" label="Oui - 63.6% - 85.1%"/>
+          <attribute field=" &quot;oui_p&quot; > 57.7 AND &quot;oui_p&quot; &lt;= 63.6" color="#72b2d7" label="Oui - 57.7% - 63.6%"/>
+          <attribute field=" &quot;oui_p&quot; > 50 AND &quot;oui_p&quot; &lt;= 57.7" color="#f7fbff" label="Oui - 50% - 57.7%"/>
+          <attribute field=" &quot;non_p&quot; > 57.1 AND &quot;non_p&quot; &lt;= 73.6" color="#b30000" label="Non - 57.1% - 73.6%"/>
+          <attribute field=" &quot;non_p&quot; > 51.8 AND &quot;non_p&quot; &lt;= 57.1" color="#fc8d59" label="Non - 51.8% - 57.1%"/>
+          <attribute field=" &quot;non_p&quot; > 50 AND &quot;non_p&quot; &lt;= 51.8" color="#fef0d9" label="Non -  50% - 51.8%"/>
         </DiagramCategory>
       </LinearlyInterpolatedDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="1" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
@@ -7657,15 +7539,15 @@ def my_form_open(dialog, layer, feature):
       </edittypes>
       <renderer-v2 attr="non_p" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
         <ranges>
-          <range render="true" symbol="0" lower="50.000000000000000" upper="51.799999999999997" label="Non - 50 - 51.8 "/>
-          <range render="true" symbol="1" lower="51.799999999999997" upper="57.119999999999997" label="Non - 51.8 - 57.1 "/>
-          <range render="true" symbol="2" lower="57.119999999999997" upper="73.569999999999993" label="Non - 57.1 - 73.6 "/>
+          <range render="true" symbol="0" lower="57.119999999999997" upper="73.569999999999993" label="Non - 57.1% - 73.6%"/>
+          <range render="true" symbol="1" lower="51.799999999999997" upper="57.119999999999997" label="Non - 51.8% - 57.1%"/>
+          <range render="true" symbol="2" lower="50.000000000000000" upper="51.799999999999997" label="Non - 50% - 51.8%"/>
         </ranges>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="254,240,217,255"/>
+              <prop k="color" v="179,0,0,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -7695,7 +7577,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="2">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="179,0,0,255"/>
+              <prop k="color" v="254,240,217,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -7875,6 +7757,8 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/xOffset" value="0"/>
         <property key="labeling/yOffset" value="0"/>
         <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames" value="_fields_"/>
+        <property key="variableValues" value=""/>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
@@ -8664,15 +8548,15 @@ def my_form_open(dialog, layer, feature):
       </edittypes>
       <renderer-v2 attr="oui_p" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
         <ranges>
-          <range render="true" symbol="0" lower="50.000000000000000" upper="57.700000000000003" label="Oui - 50 - 57.7 "/>
-          <range render="true" symbol="1" lower="57.700000000000003" upper="63.560000000000002" label="Oui - 57.7 - 63.6 "/>
-          <range render="true" symbol="2" lower="63.560000000000002" upper="85.099999999999994" label="Oui - 63.6 - 85.1 "/>
+          <range render="true" symbol="0" lower="63.560000000000002" upper="85.099999999999994" label="Oui - 63.6% - 85.1%"/>
+          <range render="true" symbol="1" lower="57.700000000000003" upper="63.560000000000002" label="Oui - 57.7% - 63.6% "/>
+          <range render="true" symbol="2" lower="50.000000000000000" upper="57.700000000000003" label="Oui - 50% - 57.7%"/>
         </ranges>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="247,251,255,255"/>
+              <prop k="color" v="8,48,107,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -8702,7 +8586,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="2">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="8,48,107,255"/>
+              <prop k="color" v="247,251,255,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -8775,7 +8659,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/fitInPolygonOnly" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
         <property key="labeling/fontFamily" value="Ubuntu"/>
-        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontItalic" value="true"/>
         <property key="labeling/fontLetterSpacing" value="0"/>
         <property key="labeling/fontLimitPixelSize" value="false"/>
         <property key="labeling/fontMaxPixelSize" value="10000"/>
@@ -8785,7 +8669,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/fontStrikeout" value="false"/>
         <property key="labeling/fontUnderline" value="false"/>
-        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWeight" value="63"/>
         <property key="labeling/fontWordSpacing" value="0"/>
         <property key="labeling/formatNumbers" value="false"/>
         <property key="labeling/isExpression" value="true"/>
@@ -8882,6 +8766,8 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/xOffset" value="0"/>
         <property key="labeling/yOffset" value="0"/>
         <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames" value="_fields_"/>
+        <property key="variableValues" value=""/>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
@@ -8951,7 +8837,7 @@ def my_form_open(dialog, layer, feature):
         <fieldstyles/>
       </conditionalstyles>
     </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>communes44_nddl20160701092829148</id>
       <datasource>./communes44-nddl.geojson</datasource>
       <keywordList>
@@ -9045,17 +8931,17 @@ def my_form_open(dialog, layer, feature):
       </edittypes>
       <renderer-v2 attr="round(&quot;oui_v&quot;/ &quot;inscrits&quot; * 100,  2)" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
         <ranges>
-          <range render="true" symbol="0" lower="18.340000000000000" upper="25.552000000000000" label=" 18.3 - 25.6 "/>
-          <range render="true" symbol="1" lower="25.552000000000000" upper="28.619999999999997" label=" 25.6 - 28.6 "/>
-          <range render="true" symbol="2" lower="28.619999999999997" upper="33.049999999999997" label=" 28.6 - 33 "/>
-          <range render="true" symbol="3" lower="33.049999999999997" upper="38.536000000000001" label=" 33 - 38.5 "/>
-          <range render="true" symbol="4" lower="38.536000000000001" upper="51.930000000000000" label=" 38.5 - 51.9 "/>
+          <range render="true" symbol="0" lower="38.536000000000001" upper="51.930000000000000" label="38.5% - 51.9%"/>
+          <range render="true" symbol="1" lower="33.049999999999997" upper="38.536000000000001" label="33% - 38.5%"/>
+          <range render="true" symbol="2" lower="28.619999999999997" upper="33.049999999999997" label="28.6% - 33%"/>
+          <range render="true" symbol="3" lower="25.552000000000000" upper="28.619999999999997" label="25.6% - 28.6%"/>
+          <range render="true" symbol="4" lower="18.340000000000000" upper="25.552000000000000" label="18.3% - 25.6%"/>
         </ranges>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="252,251,253,255"/>
+              <prop k="color" v="63,0,125,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -9070,7 +8956,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="219,219,235,255"/>
+              <prop k="color" v="106,81,163,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -9100,7 +8986,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="3">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="106,81,163,255"/>
+              <prop k="color" v="219,219,235,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -9115,7 +9001,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="4">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="63,0,125,255"/>
+              <prop k="color" v="252,251,253,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -9158,32 +9044,7 @@ def my_form_open(dialog, layer, feature):
         <labelformat format=" %1 - %2 " trimtrailingzeroes="true" decimalplaces="1"/>
       </renderer-v2>
       <labeling type="rule-based">
-        <rules>
-          <rule description="Label Nantes" filter=" &quot;code_insee&quot; = '44109'">
-            <settings>
-              <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="1" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="13" fieldName=" upper( communes)" namedStyle="Medium" fontWordSpacing="0"/>
-              <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-              <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-              <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-              <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-              <placement repeatDistanceUnit="1" placement="0" maxCurvedCharAngleIn="20" repeatDistance="0" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" preserveRotation="1" repeatDistanceMapUnitScale="0,0,0,0,0,0" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-              <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-              <data-defined/>
-            </settings>
-          </rule>
-          <rule description="Saint-Nazaire et Châteaubriant" filter=" &quot;code_insee&quot; IN ('44184', '44036')">
-            <settings>
-              <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="0" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="11" fieldName="communes" namedStyle="Medium" fontWordSpacing="0"/>
-              <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-              <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-              <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-              <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-              <placement repeatDistanceUnit="1" placement="0" maxCurvedCharAngleIn="20" repeatDistance="0" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" preserveRotation="1" repeatDistanceMapUnitScale="0,0,0,0,0,0" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-              <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-              <data-defined/>
-            </settings>
-          </rule>
-        </rules>
+        <rules/>
       </labeling>
       <customproperties>
         <property key="labeling/addDirectionSymbol" value="false"/>
@@ -9321,6 +9182,8 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/xOffset" value="0"/>
         <property key="labeling/yOffset" value="0"/>
         <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames" value="_fields_"/>
+        <property key="variableValues" value=""/>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
@@ -9390,7 +9253,7 @@ def my_form_open(dialog, layer, feature):
         <fieldstyles/>
       </conditionalstyles>
     </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>communes44_nddl_OGRGeoJSON_Polygon_copy20160701092836528</id>
       <datasource>./communes44-nddl.geojson</datasource>
       <keywordList>
@@ -9484,17 +9347,17 @@ def my_form_open(dialog, layer, feature):
       </edittypes>
       <renderer-v2 attr="round(&quot;non_v&quot;/ &quot;inscrits&quot; * 100,  2)" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
         <ranges>
-          <range render="true" symbol="0" lower="9.070000000000000" upper="17.456000000000000" label=" 9.1 - 17.5 "/>
-          <range render="true" symbol="1" lower="17.456000000000000" upper="19.859999999999999" label=" 17.5 - 19.9 "/>
-          <range render="true" symbol="2" lower="19.859999999999999" upper="22.760000000000002" label=" 19.9 - 22.8 "/>
-          <range render="true" symbol="3" lower="22.760000000000002" upper="25.978000000000002" label=" 22.8 - 26 "/>
-          <range render="true" symbol="4" lower="25.978000000000002" upper="54.789999999999999" label=" 26 - 54.8 "/>
+          <range render="true" symbol="0" lower="25.978000000000002" upper="54.789999999999999" label="26% - 54.8%"/>
+          <range render="true" symbol="1" lower="22.760000000000002" upper="25.978000000000002" label="22.8% - 26%"/>
+          <range render="true" symbol="2" lower="19.859999999999999" upper="22.760000000000002" label="19.9% - 22.8%"/>
+          <range render="true" symbol="3" lower="17.456000000000000" upper="19.859999999999999" label="17.5% - 19.9%"/>
+          <range render="true" symbol="4" lower="9.070000000000000" upper="17.456000000000000" label="9.1% - 17.5%"/>
         </ranges>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="241,238,246,255"/>
+              <prop k="color" v="152,0,67,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -9509,7 +9372,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="215,181,216,255"/>
+              <prop k="color" v="221,28,119,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -9539,7 +9402,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="3">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="221,28,119,255"/>
+              <prop k="color" v="215,181,216,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -9554,7 +9417,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="4">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="152,0,67,255"/>
+              <prop k="color" v="241,238,246,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -9597,32 +9460,7 @@ def my_form_open(dialog, layer, feature):
         <labelformat format=" %1 - %2 " trimtrailingzeroes="true" decimalplaces="1"/>
       </renderer-v2>
       <labeling type="rule-based">
-        <rules>
-          <rule description="Label Nantes" filter=" &quot;code_insee&quot; = '44109'">
-            <settings>
-              <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="1" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="13" fieldName=" upper( communes)" namedStyle="Medium" fontWordSpacing="0"/>
-              <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-              <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-              <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-              <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-              <placement repeatDistanceUnit="1" placement="0" maxCurvedCharAngleIn="20" repeatDistance="0" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" preserveRotation="1" repeatDistanceMapUnitScale="0,0,0,0,0,0" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-              <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-              <data-defined/>
-            </settings>
-          </rule>
-          <rule description="Saint-Nazaire et Châteaubriant" filter=" &quot;code_insee&quot; IN ('44184', '44036')">
-            <settings>
-              <text-style fontItalic="0" fontFamily="Roboto" fontLetterSpacing="0" fontUnderline="0" fontWeight="63" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="0" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="11" fieldName="communes" namedStyle="Medium" fontWordSpacing="0"/>
-              <text-format placeDirectionSymbol="0" multilineAlign="0" rightDirectionSymbol=">" multilineHeight="1" plussign="0" addDirectionSymbol="0" leftDirectionSymbol="&lt;" formatNumbers="0" decimals="3" wrapChar="" reverseDirectionSymbol="0"/>
-              <text-buffer bufferSize="1" bufferSizeMapUnitScale="0,0,0,0,0,0" bufferColor="255,255,255,255" bufferDraw="1" bufferBlendMode="0" bufferTransp="0" bufferSizeInMapUnits="0" bufferNoFill="0" bufferJoinStyle="64"/>
-              <background shapeSizeUnits="1" shapeType="0" shapeSVGFile="" shapeOffsetX="0" shapeOffsetY="0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeTransparency="0" shapeSizeMapUnitScale="0,0,0,0,0,0" shapeSizeType="0" shapeJoinStyle="64" shapeDraw="0" shapeBorderWidthUnits="1" shapeSizeX="0" shapeSizeY="0" shapeOffsetMapUnitScale="0,0,0,0,0,0" shapeRadiiX="0" shapeRadiiY="0" shapeOffsetUnits="1" shapeRotation="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeBorderWidthMapUnitScale="0,0,0,0,0,0" shapeRadiiMapUnitScale="0,0,0,0,0,0" shapeRadiiUnits="1"/>
-              <shadow shadowOffsetMapUnitScale="0,0,0,0,0,0" shadowOffsetGlobal="1" shadowRadiusUnits="1" shadowTransparency="30" shadowColor="0,0,0,255" shadowUnder="0" shadowScale="100" shadowOffsetDist="1" shadowDraw="0" shadowOffsetAngle="135" shadowRadius="1.5" shadowRadiusMapUnitScale="0,0,0,0,0,0" shadowBlendMode="6" shadowRadiusAlphaOnly="0" shadowOffsetUnits="1"/>
-              <placement repeatDistanceUnit="1" placement="0" maxCurvedCharAngleIn="20" repeatDistance="0" distInMapUnits="0" labelOffsetInMapUnits="1" xOffset="0" distMapUnitScale="0,0,0,0,0,0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" preserveRotation="1" repeatDistanceMapUnitScale="0,0,0,0,0,0" centroidWhole="0" priority="5" yOffset="0" offsetType="0" placementFlags="10" centroidInside="0" dist="0" angleOffset="0" maxCurvedCharAngleOut="-20" fitInPolygonOnly="0" quadOffset="4" labelOffsetMapUnitScale="0,0,0,0,0,0"/>
-              <rendering fontMinPixelSize="3" scaleMax="10000000" fontMaxPixelSize="10000" scaleMin="1" upsidedownLabels="0" limitNumLabels="0" obstacle="1" obstacleFactor="1" scaleVisibility="0" fontLimitPixelSize="0" mergeLines="0" obstacleType="0" labelPerPart="0" zIndex="0" maxNumLabels="2000" displayAll="0" minFeatureSize="0"/>
-              <data-defined/>
-            </settings>
-          </rule>
-        </rules>
+        <rules/>
       </labeling>
       <customproperties>
         <property key="labeling/addDirectionSymbol" value="false"/>
@@ -9760,6 +9598,8 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/xOffset" value="0"/>
         <property key="labeling/yOffset" value="0"/>
         <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames" value="_fields_"/>
+        <property key="variableValues" value=""/>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
@@ -10605,16 +10445,16 @@ def my_form_open(dialog, layer, feature):
     <Digitizing>
       <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
       <LayerSnappingList type="QStringList">
-        <value>Taux_abstentions20160630034139659</value>
+        <value>_Oui___parmi_les_inscrits__copy20160701093205054</value>
+        <value>_Oui___suffrage_exprimé__copy20160701092508386</value>
         <value>aeroport_nantes20160629184616411</value>
         <value>communes4420160628182821500</value>
-        <value>futur_aeroport_grand_ouest20160629185804396</value>
         <value>communes44_nddl20160701092333055</value>
-        <value>_Oui___suffrage_exprimé__copy20160701092508386</value>
         <value>communes44_nddl20160701092829148</value>
         <value>communes44_nddl_OGRGeoJSON_Polygon_copy20160701092836528</value>
-        <value>_Oui___parmi_les_inscrits__copy20160701093205054</value>
         <value>communes44_nddl_points20160701093405696</value>
+        <value>futur_aeroport_grand_ouest20160629185804396</value>
+        <value>_Non___suffrage_exprimé__copy20160701101011742</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
         <value>disabled</value>
@@ -10719,7 +10559,7 @@ def my_form_open(dialog, layer, feature):
       <layer style="" id="resultats_definitifs_consultation_26_juin_201620160628173727098"/>
     </visibility-preset>
     <visibility-preset name="Taux d'abstention">
-      <layer style="" id="Taux_abstentions20160630034139659"/>
+      <layer style="" id="_Non___suffrage_exprimé__copy20160701101011742"/>
       <layer style="" id="communes4420160628182821500"/>
       <layer style="" id="aeroport_nantes20160629184616411"/>
       <layer style="" id="futur_aeroport_grand_ouest20160629185804396"/>
