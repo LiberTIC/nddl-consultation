@@ -34,13 +34,13 @@ Vous trouverez un fichier consultation-nddl-2016-qgis.qgs pour réxploiter ces d
 
 Voici quelques aperçus
 
-![](resultat-consultation-non-inscrits-nddl-loire-atlantique.png)
-
-![](resultat-consultation-oui-inscrits-nddl-loire-atlantique.png)
-
 ![](resultat-consultation-oui-non-exprimes-nddl-loire-atlantique.png)
 
 ![](resultat-consultation-taux-abstentions-nddl-loire-atlantique.png)
+
+![](resultat-consultation-non-inscrits-nddl-loire-atlantique.png)
+
+![](resultat-consultation-oui-inscrits-nddl-loire-atlantique.png)
 
 ## Notes
 
