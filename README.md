@@ -41,9 +41,3 @@ Voici quelques aperçus
 ![](resultat-consultation-non-inscrits-nddl-loire-atlantique.png)
 
 ![](resultat-consultation-oui-inscrits-nddl-loire-atlantique.png)
-
-## Notes
-
-Les jointures entre données attributaires et géographiques sont faites via ce qu'on appelle des couches virtuelles. Les chemins peuvent poser problème pour réutiliser le projet. Pour cela, changez le manuellement en éditant le chemin dans le fichier [consultation-nddl-2016-qgis.qgs](consultation-nddl-2016-qgis.qgs) (bug pour le moment, nous ferons une correction sous peu si aucun alternative simple n'est trouvée rapidement)
-
-
