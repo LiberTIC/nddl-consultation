@@ -250,7 +250,7 @@
       </symbol>
     </AnnotationItem>
   </TextAnnotationItem>
-  <Composer title="Abstention" visible="1">
+  <Composer title="Abstention" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -267,7 +267,7 @@
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
+      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="5" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="30" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="90" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
         <scaleBarFont description="Ubuntu,12,-1,5,50,0,0,0,0,0" style=""/>
         <fillColor alpha="255" red="0" blue="0" green="0"/>
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
@@ -1784,7 +1784,7 @@ def my_form_open(dialog, layer, feature):
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="Résultat consultation" visible="1">
+  <Composer title="Résultat consultation" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -1801,13 +1801,13 @@ def my_form_open(dialog, layer, feature):
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
+      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="5" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="30" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="90" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
         <scaleBarFont description="Ubuntu,12,-1,5,50,0,0,0,0,0" style=""/>
         <fillColor alpha="255" red="0" blue="0" green="0"/>
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="146.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="146.331" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{f805aaa7-ccf8-4055-b39c-3912137737f3}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
+        <ComposerItem pagey="146.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="146.331" visibility="1" zValue="13" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{b858ed57-c079-4054-b40b-131e97fd97a7}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -1816,7 +1816,16 @@ def my_form_open(dialog, layer, feature):
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
         <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="179.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="179.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{b613ab68-f27f-48f4-b174-b3d833ccfbb6}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
+        <ComposerItem pagey="179.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="179.029" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{e0aed403-630f-4a32-bc1c-4ab3be8ca405}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
+        <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="206.066" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="304.261" y="206.066" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{2453b381-b256-41bb-98dd-5b4c5479eb9f}" height="24.9706" itemRotation="0" frame="false" pagex="304.261">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -3644,7 +3653,7 @@ def my_form_open(dialog, layer, feature):
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="Oui inscrits" visible="1">
+  <Composer title="Oui inscrits" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -3661,13 +3670,13 @@ def my_form_open(dialog, layer, feature):
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
+      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="5" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="30" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="90" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
         <scaleBarFont description="Ubuntu,12,-1,5,50,0,0,0,0,0" style=""/>
         <fillColor alpha="255" red="0" blue="0" green="0"/>
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="143.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="143.331" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{09f8d9b5-c815-4ff2-96c9-eb93a156d4e0}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
+        <ComposerItem pagey="143.332" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="143.332" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{52011729-5014-40ba-ac8e-50841972b870}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -3676,7 +3685,7 @@ def my_form_open(dialog, layer, feature):
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
         <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{c9b41d4e-90a4-4086-b978-fe39c5a737b6}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
+        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{9ff4d50c-fe7d-4026-af84-85df9cce7639}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -5173,7 +5182,7 @@ def my_form_open(dialog, layer, feature):
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="Non inscrits" visible="1">
+  <Composer title="Non inscrits" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -5190,13 +5199,13 @@ def my_form_open(dialog, layer, feature):
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="4" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="2" maxBarWidth="150" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
+      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="5" segmentMillimeters="6.60644" lineJoinStyle="miter" minBarWidth="30" numUnitsPerSegment="4000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="90" height="1" boxContentSpace="1" mapId="0" unitLabel="km">
         <scaleBarFont description="Ubuntu,12,-1,5,50,0,0,0,0,0" style=""/>
         <fillColor alpha="255" red="0" blue="0" green="0"/>
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="143.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="143.331" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{a675767a-1f46-439e-b358-dd562e647437}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
+        <ComposerItem pagey="143.331" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="223.983" y="143.331" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="45.9619" outlineWidth="0.3" excludeFromExports="0" uuid="{80cf2cbf-f794-4ea3-9f6e-a4ce944aa94f}" height="18.5126" itemRotation="0" frame="false" pagex="223.983">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -5205,7 +5214,7 @@ def my_form_open(dialog, layer, feature):
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Crédits:&#xa;Préfecture Loire-Atlantique,&#xa;IGN Geofla© (Licence Ouverte v 1.0),&#xa;Wikipédia&#xa;Auteur: Thomas Gratier, 2016" htmlState="0" halign="2">
         <LabelFont description="Roboto,10,-1,5,50,0,0,0,0,0" style="Regular"/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{743eac2d-61da-4254-9788-8063aa45a9b9}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
+        <ComposerItem pagey="176.029" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="194.12" y="176.029" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="75.8251" outlineWidth="0.3" excludeFromExports="0" uuid="{d4cc8eb8-ceb4-49a9-9143-c47c76c4bacd}" height="24.9706" itemRotation="0" frame="false" pagex="194.12">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
